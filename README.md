@@ -4,7 +4,7 @@ statistics for geo &amp; space scientists. Labs will be updated from January - M
 
 This README will be updated to reflect current changes. 
 
-Data used in this hub will be accredited to the providers.
+Data used in the lessons will be accredited to the providers.
 
 Lab assignments are availiable and will be mentioned in the tutorials but are not as of (1/9/2018) linked. 
 

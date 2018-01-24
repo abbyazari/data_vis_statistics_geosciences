@@ -8,8 +8,10 @@ Lab 1 - Intro to Python - What IS Pandas? (1/10/2018)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Temperature Changes: Looking at Global Temperature Variances in the Last Century  
 Lab 2 - Multi-plots and Datetime Objects (1/17/2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns  
+Lab 3 - Image Manipulation and Spacecraft Data (1/24/2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images: Looking at Spacecraft Image Data from the Recent Juno Mission  
 
 
 This README will be updated to reflect current changes. Data used in the lessons will be accredited to the providers. Lab assignments are availiable and will be mentioned in the tutorials but are not as of (1/9/2018) linked. 
 
-Last update 1/17/2018
+Last update 1/23/2018

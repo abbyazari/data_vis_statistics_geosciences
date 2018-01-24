@@ -11,14 +11,14 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
   <img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing" width="300px" height="200px"/>
 </p>
 
-### [Lab 2 - Multi-plots and Datetime Objects (1/17/2018)] (https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab2/Lab2_BirdRanges.ipynb)
+### [Lab 2 - Multi-plots and Datetime Objects (1/17/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab2/Lab2_BirdRanges.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns  
 
 <p align="left">
   <img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing" width="300px" height="300px"/>
 </p>
 
-### [Lab 3 - Image Manipulation and Spacecraft Data (1/24/2018)] (https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab3/Lab3_JupiterFlyBy.ipynb)  
+### [Lab 3 - Image Manipulation and Spacecraft Data (1/24/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab3/Lab3_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images: Looking at Spacecraft Image Data from the Recent Juno Mission  
 
 <p align="left">

@@ -6,7 +6,11 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 Lab 1 - Intro to Python - What IS Pandas? (1/10/2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Temperature Changes: Looking at Global Temperature Variances in the Last Century
-<img src="./Lab1/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing" style="width: 500px;"/>
+
+
+<img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing" style="width: 50px;"/>
+
+
 Lab 2 - Multi-plots and Datetime Objects (1/17/2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns  
 Lab 3 - Image Manipulation and Spacecraft Data (1/24/2018)  

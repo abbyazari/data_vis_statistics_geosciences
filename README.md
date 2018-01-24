@@ -12,7 +12,9 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns <img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing" width="350px" height="350px"/>
 
 ### [Lab 3 - Image Manipulation and Spacecraft Data (1/24/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab3/Lab3_JupiterFlyBy.ipynb)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images: Looking at Spacecraft Image Data from the Recent Juno Mission  <img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing" width="200px" height="200px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images: Looking at Spacecraft Image Data from the Recent Juno Mission  
+
+<img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing" width="200px" height="200px"/>
 
 
 

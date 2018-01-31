@@ -18,7 +18,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data: Looking at Magnetic Field Data from the Recent Juno Mission  
 
 <img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="320px" height="250px"/><img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="350px" height="350px"/><img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" width="180px" height="180px"/>
-<img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="180px" height="180px"/>
+<img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="400px"/>
 
 
 This README will be updated to reflect current changes. Data used in the lessons will be accredited to the providers. Lab assignments are availiable and will be mentioned in the tutorials but are not as of (1/9/2018) linked. 

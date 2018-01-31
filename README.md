@@ -14,11 +14,11 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 3 - Image Manipulation and Spacecraft Data (1/24/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab3/Lab3_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images: Looking at Spacecraft Image Data from the Recent Juno Mission  
 
-### [Lab 4 - Data Merging and Indexing with Multiple Datasets from Spacecraft Data (1/31/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
+### [Lab 4 - Data Merging and Indexing with Spacecraft Data (1/31/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data: Looking at Magnetic Field Data from the Recent Juno Mission  
 
 <img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="320px" height="250px"/><img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="350px" height="350px"/><img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" width="180px" height="180px"/>
-<img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png.png" alt="Drawing4" width="180px" height="180px"/>
+<img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="180px" height="180px"/>
 
 
 This README will be updated to reflect current changes. Data used in the lessons will be accredited to the providers. Lab assignments are availiable and will be mentioned in the tutorials but are not as of (1/9/2018) linked. 

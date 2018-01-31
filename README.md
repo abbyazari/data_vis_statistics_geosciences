@@ -16,6 +16,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 ### [Lab 4 - Data Merging and Indexing with Spacecraft Data (1/31/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data with Jupyter: Looking at Magnetic Field Data from the Recent Juno Mission
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: For the error analysis section there are equations written in LaTeX. They do not show up well with Github's preview - if you want to view these please download the Jupyter notebook.  
 
 

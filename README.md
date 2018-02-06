@@ -28,6 +28,6 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 This README will be updated to reflect current changes. Data used in the lessons will be accredited to the providers. Lab assignments are availiable and will be mentioned in the tutorials but are not as of (1/9/2018) linked. 
 
-Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data. 
+Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data and Gabriel Harp the Research Director of ArtsEngin for pointing us toward climate health impact data. 
 
 Last update 1/30/2018

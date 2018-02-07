@@ -21,9 +21,14 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They do not show up with Github's preview - if you want to view these please download the Jupyter notebook.  
 
+### [Lab 5 - Groupby, Normal Distributions, & Boxplots (1/31/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab5/Lab5_NormalsTempsHealthImpacts.ipynb)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health Impacts: Normal Distributions of Temperature and Boxplots of Extremes
+
+
 
 <img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="320px" height="250px"/><img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="350px" height="350px"/><img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" width="180px" height="180px"/>
 <img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="400px"/>
+<img src="./Lab5/Figures/SummerTemps.png" alt="Drawing5" width="400px"/>
 
 
 This README will be updated to reflect current changes. Data used in the lessons will be accredited to the providers. Lab assignments are availiable and will be mentioned in the tutorials but are not as of (1/9/2018) linked. 

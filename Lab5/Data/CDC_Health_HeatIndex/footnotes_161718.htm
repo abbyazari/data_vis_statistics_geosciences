@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <title>About These Data</title>
+  </head>
+
+<style>
+	
+</style>
+<body>
+ <p><h3>Historical Extreme Heat Days and Events | Number of extreme heat days</h3></p><div id="accordion">
+  <h3>Data details</h3>
+  <div>
+  	<h3>Footnotes</h3>
+    <p>
+    	<ol>
+		    		    	<li><p>Modeled temperature data obtained from North American Land Data Assimilation System (NLDAS) used to create measures. More about NLDAS: <a target="_blank" href="http://www.emc.ncep.noaa.gov/mmb/nldas/">http://www.emc.ncep.noaa.gov/mmb/nldas/</a></p></li>
+					    	<li><p>Measure was calculated only for months May through September. Data are available for all states except Alaska and Hawaii.</p></li>
+					    	<li><p>Values for Heat Index are not calculated for days with a maximum daily temperature &#60; 80&deg;F, resulting in missing values for some days in the chart and table.</p></li>
+					    	<li><p>Percentile values are calculated using data for 1979-2013.</p></li>
+					    	<li><p>Modeled data performs relatively well in estimating temperature, however, the estimates may differ when compared to weather station-based observations. The differences vary by region and some of these differences are expected from a meteorological perspective. As a result, an area may be described as having higher or lower temperatures than actually occurred.</p></li>
+					    	<li><p>County-level estimates of temperature and heat index are obtained by processing modeled data, which are available by1/8th-degree grid. The process of converting grid-level data to county-level estimates using a population-weighted centroid approach may lead to potential misclassification of temperature and heat index for some areas.</p></li>
+					    	<li><p>For more information on heat warnings and alerts, please refer to <a target="_blank" href="http://www.weather.gov/">National Weather Service website</a></p></li>
+					</ol>
+    </p>
+            <h3>Blanks or Missing Data</h3>
+        <p>Blanks or missing data within the maps, tables, and charts may be due to one of the following reasons: (1) data were not collected, (2) data were collected but were not provided to CDC, or (3) data were incomplete or did not meet data quality standards.</p>
+
+            <h3>Data Differences</h3>
+        <p>Data presented on CDC's Tracking Network may differ from data that are presented on state or city tracking networks, state or city health department websites, and other source websites for the same measures. The differences may occur for many reasons, such as use of different population estimates, differences in processes and timing for updating data, or differences in how a measure is defined for environmental public health tracking purposes. Consult the indicators and measures descriptions and metadata that are provided on this site for more information.</p>
+
+		            <h3>Indicator</h3>
+        <p>For more information, refer to the documentation available through the <a target="_blank" href="../showIndicatorPages.action?selectedContentAreaAbbreviation=15&selectedIndicatorId=79">Indicator and Data Link</a>.</p>
+
+      </div>
+  <h3>How should this data set be cited?</h3>
+  <div>
+  <b><p>Suggested Citation</p></b>
+	<p>
+		Centers for Disease Control and Prevention. Environmental Health Tracking Program. Extreme heat days and events. 
+		Accessed From Environmental Public Health Tracking Network: www.cdc.gov/ephtracking. Accessed on 02/05/2018
+	</p>
+  </div>
+  <h3>Why was the data set created?</h3>
+  <div>
+	<b><p>Purpose</p></b>
+	<p><p>Allow for a better understanding of spatial and temporal trends of extreme heat.</p></p>
+  </div>
+  <h3>How was the data set created?</h3>
+  <div>
+	<b><p>Derivation of measure</p></b>
+	<p><p>North American Land Data Assimilation System (NLDAS) data, available at the 1/8<sup>th</sup>-degree grid (approximately, 14X14 km), consist of 103,936 grid cells that cover the entire United States, excluding Alaska and Hawaii. We selected the daily maximum and minimum temperatures from the hourly NLDAS data. We also calculated a daily maximum heat index, taking into account relative humidity and temperature. We converted grid-level data to county-level estimates to ascertain population exposure to extreme heat and enable linkage with health datasets. We used a multi-stage geo-imputation approach to convert grid-level meteorological data to county-level estimates. First, we calculated the population within each NLDAS grid cell using population estimates given by U.S. Census Blocks. We then converted NLDAS grid polygons with population information to centroids and related all the grid cell centroids to the counties in the conterminous U.S. based on a containment relationship. For counties that did not have a grid cell centroid within its boundary, we assigned a grid cell centroid closest to the county boundary. Finally, we created a population-weighted average from all the grid cell centroids to obtain county-level estimates of daily heat metrics. </p></p>
+  </div>
+  <h3>What are the limitations of the data set?</h3>
+  <div>
+  	<b><p></p></b>
+	<p><p>NLDAS modeled meteorologic data may not accurately reflect the true temperature and heat index values in each county.</p></p>
+  </div>
+  <h3>How should these data be used?</h3>
+  <div>
+	<b><p>Use Constraints</p></b>
+	<p><ul><li>Modeled data perform relatively well in estimating temperature;  however, the estimates may differ when compared to weather station-based observations. The differences vary by region and some are expected from a meteorological perspective. As a result, an area may be described as having higher or lower temperatures than actually occurred. </li><li>County-level estimates of temperature and heat index are obtained by processing modeled data, which are available by1/8<sup>th</sup>-degree grid. The process of converting grid-level data to county-level estimates using a population-weighted centroid approach may lead to potential misclassification of temperature and heat index for some areas. </li><li>People in different regions have varying degrees of acclimatization to heat. The flexibility of the tool could help in calibrating definitions to reflect that. However, the tool does not prescribe the most appropriate definition of extreme heat for specific geographic regions because of the lack of consensus in the weather-related scientific literature.</li></ul></p>
+  </div>
+  <h3>How can someone get a copy of the queried data set?</h3>
+  <div>
+  	<p>
+		Your queried dataset is available for download by clicking the export icon from within your query screen. The resulting .zip file will include your data in a .csv format as well as supporting information about the data.<br><br>
+		The Tracking Network Data Application Program Interface (API) is an alternate way to query data from the Environmental Public Health Tracking Network. The API provides a standardized URL interface with a JSON formatted result set that you can integrate into your applications. Below is a link to this query result (in JSON format) using our public API. <br>
+<center><a target="_blank" href="https://ephtracking.cdc.gov:443/apigateway/api/v1/getCoreHolder/423/82/ALL/ALL/2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990,1989,1988,1987,1986,1985,1984,1983,1982,1981,1980,1979/0/0?TemperatureHeatIndexId=1&RelativeThresholdId=1">https://ephtracking.cdc.gov:443/apigateway/api/v1/getCoreHolder/423/82/ALL/ALL/2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990,1989,1988,1987,1986,1985,1984,1983,1982,1981,1980,1979/0/0?TemperatureHeatIndexId=1&RelativeThresholdId=1</a></center><br>
+For additional details and documentation on the API please visit our <a target="_blank" href="../apihelp">API Resource Page</a>.
+	</p>
+  </div>
+  <h3>Questions</h3>
+  <div>
+  	<p>If you have questions about this dataset, the tracking portal or the National Environmental Public Health Tracking Network please contact us at <a href="mailto:trackingsupport@cdc.gov">trackingsupport@cdc.gov</a></p>
+  </div>
+</div> 
+</body>
+</html>

@@ -21,8 +21,11 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They do not show up with Github's preview - if you want to view these please download the Jupyter notebook.  
 
-### [Lab 5 - Groupby, Normal Distributions, & Boxplots (1/31/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab5/Lab5_NormalsTempsHealthImpacts.ipynb)  
+### [Lab 5 - Groupby, Normal Distributions, & Boxplots (2/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab5/Lab5_NormalsTempsHealthImpacts.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health Impacts: Normal Distributions of Temperature and Boxplots of Extremes
+
+
+
 
 
 
@@ -35,4 +38,4 @@ This README will be updated to reflect current changes. Data used in the lessons
 
 Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data and Gabriel Harp the Research Director of ArtsEngin at University of Michigan for pointing us toward climate health impact data. 
 
-Last update 1/30/2018
+Last update 2/6/2018

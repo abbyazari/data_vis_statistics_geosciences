@@ -24,7 +24,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 5 - Groupby, Normal Distributions, & Boxplots (2/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab5/Lab5_NormalsTempsHealthImpacts.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health Impacts: Normal Distributions of Temperature and Boxplots of Extremes
 
-### [Lab 6 - Groupby, Normal Distributions, & Boxplots (2/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab6/Lab6_MappingSeaIce.ipynb)  
+### [Lab 6 - Linear Regression & Geo-Mapping with Sea Ice (2/14/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab6/Lab6_MappingSeaIce.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arctic Indicators: Calculating Rates of Change of Sea Ice Extent & Mapping
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: The netCDF file required for analysis must be downloaded seperately. 
@@ -37,6 +37,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 <img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="500px"/><img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" height="350px"/>
 <img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="420px"/><img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="450px"/>
 <img src="./Lab5/Figures/SummerTemps.png" alt="Drawing5" width="450px"/>
+<img src="./Lab6/Figures/2010SeaIceConcentration.png" alt="Drawing6" width="450px"/>
 
 
 This README will be updated to reflect current changes. Data used in the lessons will be accredited to the providers. Lab assignments are availiable and will be mentioned in the tutorials but are not as of (1/9/2018) linked. 
@@ -45,4 +46,4 @@ This class has been developed in collaboration with [Dr. Michael Liemohn](http:/
 
 Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data, Gabriel Harp the Research Director of ArtsEngin at University of Michigan for pointing us toward climate health impact data, and Jeff Lockhart of the [Computational Social Scientists](https://github.com/UM-CSS) (CSS) for offering resources through CSS.
 
-Last update 2/6/2018
+Last update 2/13/2018

@@ -24,7 +24,12 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 5 - Groupby, Normal Distributions, & Boxplots (2/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab5/Lab5_NormalsTempsHealthImpacts.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health Impacts: Normal Distributions of Temperature and Boxplots of Extremes
 
+### [Lab 6 - Groupby, Normal Distributions, & Boxplots (2/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab6/Lab6_MappingSeaIce.ipynb)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arctic Indicators: Calculating Rates of Change of Sea Ice Extent & Mapping
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: The netCDF file required for analysis must be downloaded seperately. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can find the gridded ice concentration data from the [National Snow & Ice Data Center](http://nsidc.org/data/G10010).
 
 
 

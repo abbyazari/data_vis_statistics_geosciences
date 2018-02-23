@@ -1,4 +1,4 @@
-# Data Visualzation & Statistics in the Geosciences
+# Data Visualization & Statistics in the Geosciences
 This repository contains the laboratory portion of an upper level undergraduate class in Python on data visualization and 
 statistics for geo &amp; space scientists. Labs will be updated from January - May at the same cadence as the course.
 
@@ -52,5 +52,5 @@ Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.ed
 
 Last update 2/13/2018
 
-# Liscense
+# License
 The content of this repository itself is licensed under the [Creative Commons Attribution-Non Commercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). However, the specific code used within the notebooks taken out of context, and to format and display that content is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).

@@ -53,4 +53,4 @@ Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.ed
 Last update 2/13/2018
 
 # License
-The content of this repository itself is licensed under the [Creative Commons Attribution-Non Commercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). However, the specific code used within the notebooks taken out of context, and to format and display that content is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
+The content and lessons of this repository itself is licensed under the [Creative Commons Attribution-Non Commercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). However, the specific code used within the notebooks taken out of context and to format and display that content is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).

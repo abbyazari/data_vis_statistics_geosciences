@@ -39,7 +39,8 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 <img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="500px"/><img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" height="350px"/>
 <img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="420px"/><img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="450px"/>
-<img src="./Lab5/Figures/SummerTemps.png" alt="Drawing5" height="400px" width="350px"/><img src="./Lab6/Figures/2010SeaIceConcentration.png" alt="Drawing6" height="330px"/>src="./Lab7/Figures/LongDurationSolar.png" alt="Drawing6" height="330px"/>
+<img src="./Lab5/Figures/SummerTemps.png" alt="Drawing5" height="400px" width="350px"/><img src="./Lab6/Figures/2010SeaIceConcentration.png" alt="Drawing6" height="330px"/>
+<img src="./Lab7/Figures/LongDurationSolar.png" alt="Drawing6" height="330px"/>
 
 
 

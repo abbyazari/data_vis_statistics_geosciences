@@ -34,7 +34,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additionally this lab is dependent on the Python packages for [netCDF-4](http://unidata.github.io/netcdf4-python/) and [Basemap](https://matplotlib.org/basemap/).
 
-### [Lab 5 - Correlation Coefficients, Classification Problems, & Space Weather (2/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab7/Lab7_SpaceWeatherClassifiers.ipynb)  
+### [Lab 5 - Correlation Coefficients, Classification Problems, & Space Weather (3/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab7/Lab7_SpaceWeatherClassifiers.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Solar Impacts on Geomagnetic Storms
 
 

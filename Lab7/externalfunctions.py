@@ -24,7 +24,7 @@ def loadOmniData(filepath):
     colNames = ['YEAR', 'DOY', 'Hour', 'BX', 'BY', 'BZ', 'FlowPressure', 'Ey', 'Kp', 
             'SunspotNumber', 'Dst', 'f10.7_index']
 
-    data = pd.read_csv('./Data/omni2_Hourly1980_2018.lst', sep = '\s+', names = colNames,
+    data = pd.read_csv(filepath, sep = '\s+', names = colNames,
                           parse_dates = {'Datetime': colNames[0:3]}, keep_date_col = 'True')
 
     data.index = pd.to_datetime(data['Datetime'], infer_datetime_format = False, 
@@ -39,8 +39,11 @@ def loadOmniData(filepath):
     data['Ey'] = data['Ey'].replace(
         to_replace = 999.99, value = np.nan)
 
-    data[['SunspotNumber', 'Kp']] = data[['SunspotNumber', 'Kp']].replace(
+    data[['SunspotNumber']] = data[['SunspotNumber']].replace(
         to_replace = 999, value = np.nan)
+    
+    data[['Kp']] = data[['Kp']].replace(
+        to_replace = 99, value = np.nan)
     
     return(data)
 

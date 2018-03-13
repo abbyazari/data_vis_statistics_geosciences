@@ -37,12 +37,15 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 7 - Correlation Coefficients, Classification Problems, & Space Weather (3/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab7/Lab7_SpaceWeatherClassifiers.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Solar Impacts on Geomagnetic Storms
 
+### [Lab 8 - Object Oriented Programming and Bootstrap Analysis (3/14/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab8/Lab8_SpaceWeatherBootstraps.ipynb)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Linear Regression with Bootstrap Analysis
+
 
 
 <img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="500px"/><img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" height="350px"/>
 <img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="420px"/><img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="450px"/>
 <img src="./Lab5/Figures/SummerTemps.png" alt="Drawing5" height="400px" width="350px"/><img src="./Lab6/Figures/2010SeaIceConcentration.png" alt="Drawing6" height="320px"/>
-<img src="./Lab7/Figures/LongDurationSolar.png" alt="Drawing6" height="320px"/>
+<img src="./Lab7/Figures/LongDurationSolar.png" alt="Drawing7" height="320px"/><img src="./Lab8/Figures/Fits_Sunspot%20NumbervsD%20%24_%7Bst%7D%24%20(nT).png" alt="Drawing8" height="320px"/>
 
 
 
@@ -54,7 +57,7 @@ This class has been developed in collaboration with [Dr. Michael Liemohn](http:/
 
 Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data, Gabriel Harp the Research Director of ArtsEngin at University of Michigan for pointing us toward climate health impact data, space scientist [Doga Ozturk](http://clasp.engin.umich.edu/people/dcsoztrk/GSTUDENT) for expertise in space weather informatics, solar physicist [Yeimy Rivera](http://clasp.engin.umich.edu/people/yrivera/GSTUDENT) for expertise in solar surface data, and Jeff Lockhart of the [Computational Social Scientists](https://github.com/UM-CSS) (CSS) for offering resources through CSS.
 
-Last update 2/13/2018
+Last update 3/13/2018
 
 # License
 The content and lessons of this repository itself is licensed under the [Creative Commons Attribution-Non Commercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). However, the specific code used within the notebooks taken out of context and to format and display that content is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).

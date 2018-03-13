@@ -1,0 +1,18 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 YEAR                          I4        
+ 2 DOY                           I4        
+ 3 Hour                          I3        
+ 4 BX, nT (GSE, GSM)             F6.1      
+ 5 BY, nT (GSE)                  F6.1      
+ 6 BZ, nT (GSE)                  F6.1      
+ 7 Flow pressure                 F6.2      
+ 8 E elecrtric field             F7.2      
+ 9 Kp index                      I3        
+10 R (Sunspot No.)               I4        
+11 Dst-index, nT                 I6        
+12 f10.7_index                   F6.1      
+
+This file was produced by SPDF OMNIWeb Plus service

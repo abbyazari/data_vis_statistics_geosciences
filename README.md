@@ -42,14 +42,14 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 
 
-<img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="600px"/>
-<img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" height="600px"/>
-<img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="600px"/>
-<img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="600px"/>
-<img src="./Lab5/Figures/SummerTemps.png" alt="Drawing5" height="400px" width="600px"/>
-<img src="./Lab6/Figures/2010SeaIceConcentration.png" alt="Drawing6" height="600px"/>
-<img src="./Lab7/Figures/LongDurationSolar.png" alt="Drawing7" height="600px"/>
-<img src="./Lab8/Figures/Fits_Sunspot%20NumbervsD%20%24_%7Bst%7D%24%20(nT).png" alt="Drawing8" height="600px"/>
+<img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="300px"/>
+<img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" height="300px"/>
+<img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="300px"/>
+<img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="300px"/>
+<img src="./Lab5/Figures/SummerTemps.png" alt="Drawing5" height="400px" width="300px"/>
+<img src="./Lab6/Figures/2010SeaIceConcentration.png" alt="Drawing6" height="300px"/>
+<img src="./Lab7/Figures/LongDurationSolar.png" alt="Drawing7" height="300px"/>
+<img src="./Lab8/Figures/Fits_Sunspot%20NumbervsD%20%24_%7Bst%7D%24%20(nT).png" alt="Drawing8" height="300px"/>
 
 
 

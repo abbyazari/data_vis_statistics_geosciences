@@ -42,10 +42,10 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 | | |
 |:-------------------------:|:-------------------------:|
-|Lab 1 <img width="1604" alt="img1" src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png"> | Lab 2 <img width="1604" alt="img2" src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png"> 
-|Lab 3 <img width="1604" alt="img3" src="./Lab3/FinalPNGs/augmentedProject.png"> | Lab 4 <img width="1604" alt="img4" src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4"> 
-| Lab 5 <img width="1604" alt="img5" src="./Lab5/Figures/SummerTemps.png"> | Lab 6 <img width="1604" alt="img5" src="./Lab6/Figures/2010SeaIceConcentration.png"> 
-| Lab 7 <img width="1604" alt="img6" src="./Lab7/Figures/LongDurationSolar.png"> |
+|Lab 1 <img width="1500" alt="img1" src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png"> | Lab 2 <img width="1500" alt="img2" src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png"> 
+|Lab 3 <img width="1500" alt="img3" src="./Lab3/FinalPNGs/augmentedProject.png"> | Lab 4 <img width="1500" alt="img4" src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4"> 
+| Lab 5 <img width="1500" alt="img5" src="./Lab5/Figures/SummerTemps.png"> | Lab 6 <img width="1500" alt="img5" src="./Lab6/Figures/2010SeaIceConcentration.png"> 
+| Lab 7 <img width="1500" alt="img6" src="./Lab7/Figures/LongDurationSolar.png"> |
 
 
 

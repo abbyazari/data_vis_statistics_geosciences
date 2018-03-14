@@ -40,9 +40,9 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 8 - Object Oriented Programming and Bootstrap Analysis (3/14/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab8/Lab8_SpaceWeatherBootstraps.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Linear Regression with Bootstrap Analysis
 
-| | | |
+
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="img1" src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png">  blah |  <img width="1604" alt="img2" src="./Lab2Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png">|<img width="1604" alt="img3" src="./Lab3/FinalPNGs/augmentedProject.png">|
+|<img width="1604" alt="img1" src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png">  blah |  <img width="1604" alt="img2" src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png">|<img width="1604" alt="img3" src="./Lab3/FinalPNGs/augmentedProject.png">|
 |<img width="1604" alt="img4" src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4">  |  <img width="1604" alt="img5" src="./Lab5/Figures/SummerTemps.png">|<img width="1604" alt="img5" src="./Lab6/Figures/2010SeaIceConcentration.png">|
 |<img width="1604" alt="img6" src="./Lab6/Figures/2010SeaIceConcentration.png">  |  <img width="1604" alt="img6" src="./Lab7/Figures/LongDurationSolar.png">|<img width="1604" alt="img7" src="./Lab8/Figures/Fits_Sunspot%20NumbervsD%20%24_%7Bst%7D%24%20(nT).png">|
 

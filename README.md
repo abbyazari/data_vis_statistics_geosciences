@@ -42,20 +42,9 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="img1" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="img2" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="img3" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="img4" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="img5" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="img5" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="img6" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="img6" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="img7" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
-<img src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png" alt="Drawing1" width="300px"/>
-<img src="./Lab3/FinalPNGs/augmentedProject.png" alt="Drawing3" height="300px"/>
-<img src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png" alt="Drawing2" width="300px"/>
-<img src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4" width="300px"/>
-<img src="./Lab5/Figures/SummerTemps.png" alt="Drawing5" height="400px" width="300px"/>
-<img src="./Lab6/Figures/2010SeaIceConcentration.png" alt="Drawing6" height="300px"/>
-<img src="./Lab7/Figures/LongDurationSolar.png" alt="Drawing7" height="300px"/>
-<img src="./Lab8/Figures/Fits_Sunspot%20NumbervsD%20%24_%7Bst%7D%24%20(nT).png" alt="Drawing8" height="300px"/>
-
-
+|<img width="1604" alt="img1" src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png">  blah |  <img width="1604" alt="img2" src="./Lab2Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png">|<img width="1604" alt="img3" src="./Lab3/FinalPNGs/augmentedProject.png">|
+|<img width="1604" alt="img4" src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4">  |  <img width="1604" alt="img5" src="./Lab5/Figures/SummerTemps.png">|<img width="1604" alt="img5" src="./Lab6/Figures/2010SeaIceConcentration.png">|
+|<img width="1604" alt="img6" src="./Lab6/Figures/2010SeaIceConcentration.png">  |  <img width="1604" alt="img6" src="./Lab7/Figures/LongDurationSolar.png">|<img width="1604" alt="img7" src="./Lab8/Figures/Fits_Sunspot%20NumbervsD%20%24_%7Bst%7D%24%20(nT).png">|
 
 
 

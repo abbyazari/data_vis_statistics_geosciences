@@ -40,6 +40,9 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 8 - Object Oriented Programming and Bootstrap Analysis (3/14/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab8/Lab8_SpaceWeatherBootstraps.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Linear Regression with Bootstrap Analysis
 
+### [Data Visualization Basics (5/16/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adapted for the [ICOS Big Data Summer Camp](https://github.com/ICOSBigDataCamp/2018-summer-camp) at University of Michigan
+
 | | |
 |:-------------------------:|:-------------------------:|
 |Lab 1 <img width="1500" alt="img1" src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages.png"> | Lab 2 <img width="1500" alt="img2" src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png"> 
@@ -55,7 +58,7 @@ This class has been developed in collaboration with [Dr. Michael Liemohn](http:/
 
 Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data, Gabriel Harp the Research Director of ArtsEngin at University of Michigan for pointing us toward climate health impact data, space scientist [Doga Ozturk](http://clasp.engin.umich.edu/people/dcsoztrk/GSTUDENT) for expertise in space weather informatics, solar physicist [Yeimy Rivera](http://clasp.engin.umich.edu/people/yrivera/GSTUDENT) for expertise in solar surface data, and Jeff Lockhart of the [Computational Social Scientists](https://github.com/UM-CSS) (CSS) for offering resources through CSS.
 
-Last update 3/13/2018
+Last update 5/16/2018
 
 # License
 The content and lessons of this repository itself is licensed under the [Creative Commons Attribution-Non Commercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). However, the specific code used within the notebooks taken out of context and to format and display that content is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).

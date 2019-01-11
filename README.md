@@ -1,4 +1,4 @@
-# Data Visualization & Statistics in the Geosciences
+# Data Visualization & Statistics in the Geosciences 2018
 This repository contains the laboratory portion of an upper level undergraduate class in Python on data visualization and 
 statistics for geo &amp; space scientists. Labs will be updated from January - May at the same cadence as the course (2018). This respository has now been superseeded by the 2019 version of this course! Please refer to the master branch. 
 

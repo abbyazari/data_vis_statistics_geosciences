@@ -8,7 +8,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 1 - Intro to Python - What IS Pandas? (1/13/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab1/Lab1_ClimaticAverages_GlobalTemperatures.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Temperature Changes: Looking at Global Temperature Variances in the Last Century 
 
-# 2018 Content - To Be Updated
+# 2018 Content - To Be Updated in 2019 with Current Course
 ### [Lab 2 - Multi-plots and Datetime Objects (1/17/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab2/Lab2_BirdRanges.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns 
 

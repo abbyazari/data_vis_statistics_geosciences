@@ -16,6 +16,9 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 3 - Image Manipulation and Spacecraft Data (1/28/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab3/Lab3_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images with Jupyter: Looking at Spacecraft Image Data from the Recent Juno Mission  
 
+### [Lecture 4 - From Chart to Art (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab3/Lab3_JupiterFlyBy.ipynb)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction to Visualization Basics  
+
 # 2018 Content - To Be Updated in 2019 with Current Course
 ### [Lab 4 - Data Merging and Indexing with Spacecraft Data (1/31/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data with Jupyter: Looking at Magnetic Field Data from the Recent Juno Mission

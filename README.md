@@ -16,6 +16,8 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 3 - Image Manipulation and Spacecraft Data (1/28/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab3/Lab3_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images with Jupyter: Looking at Spacecraft Image Data from the Recent Juno Mission  
 
+### [EXTRA Course Lecture - From Chart to Art  (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/CLaSP405_W19_4Visualization.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecture for course on visualization basics.
 
 # 2018 Content - To Be Updated in 2019 with Current Course
 ### [Lab 4 - Data Merging and Indexing with Spacecraft Data (1/31/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
@@ -43,10 +45,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 8 - Object Oriented Programming and Bootstrap Analysis (3/14/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab8/Lab8_SpaceWeatherBootstraps.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Linear Regression with Bootstrap Analysis
 
-### [EXTRA EXTRA Course Lecture - From Chart to Art  (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecture for course on visualization basics.
-
-### [EXTRA EXTRA Data Visualization Basics (5/16/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf)  
+### [EXTRA Data Visualization Basics (5/16/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mini lessons and lectures for the [ICOS Big Data Summer Camp](https://github.com/ICOSBigDataCamp/2018-summer-camp) at University of Michigan
 
 | | |

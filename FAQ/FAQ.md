@@ -9,3 +9,5 @@ This file will contain updated grouping of commonly asked questions with regards
 ## I'm here to learn Python but code in space science / climate science. Where do I begin?
 - Lab 1 has a lot of what you need to get started. Begin there then pick and choose what labs you would like after that but make sure to start with Lab 1 as it has a lot of the basics of Python oddities in there. 
 
+## I'm here from space science and I've heard talk about SpacePy, astroPy, SunPy etc?
+- Go check out the Python in Heliophysics community pages and projects at https://heliopython.org/projects/.

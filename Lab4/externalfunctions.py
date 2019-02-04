@@ -4,7 +4,7 @@
 
 externalfunctions.py 
 
-Comment Block for modules should have: 
+Comment Block for external modules should have: 
 
 Name and Date: 
 - Written on 1/29/2018 for CLaSP 405 by Lab TA A. Azari. 
@@ -18,9 +18,17 @@ magnetic field data analysis for Lab 4.
 
 def readFGM(year, dayOfYear):
     '''
-    Function to read in Juno Flux Gate Magnetometer (FGM) data. Is 
-    essentially a wrapper for read CSV and then manipulation of 
+    Function to read in Juno Flux Gate Magnetometer (FGM) data. This
+    is essentially a wrapper for read CSV and then manipulation of 
     datetime objects. 
+    
+    Inputs:
+    - year, string. Within the file name of FGM data.
+    - dayOfYear, string. Within the file name of FGM data.
+    
+    Outputs:
+    - data, Pandas dataframe of FGM data.
+    
     '''
     import pandas as pd
 
@@ -79,6 +87,14 @@ def readImgFiles(directoryName):
     Takes in a directory path name and then reads all the files
     provided they are image .png files and then outputs
     a dictionary with all the files. 
+    
+    Inputs:
+    - directoryName, string. Location of image files.
+    
+    Outputs:
+    - imageData, dictionary of entries related to images as numpy ndarrays. 
+ 
+    
     '''
     import os #for accessing current directory of the path
     import matplotlib.image as mpimg
@@ -102,7 +118,13 @@ def readImgFiles(directoryName):
 def convertJupiterR(columns):
     '''
     Takes in a dataframe subset and converts
-    into radii of planet by creating new columns.
+    into radii of Jupiter by creating new columns.
+    
+    Inputs:
+    - columns, pandas dataframe subset of columns. 
+    
+    Outputs: 
+    - converted columns, returns columns converted to Jupiter radius units.
     '''
 
     jupiterRadius = 71492.0 #in kilometers
@@ -118,10 +140,18 @@ def addQuadrature(X, Y, Z):
     Calculates a quadrature sum of three values. 
     Formula as np.sqrt(x^2 + y^2 + z^2)
     Useful when calculating the  magnitude of X, Y, Z vector components. 
+    
+    Inputs:
+    - X, array or single value (numpy etc).
+    - Y, array or single value (numpy etc).
+    - Z, array or single value (numpy etc).
+    
+    Outputs:
+    - magnitude, array or single value (numpy etc) of magnitude of components. 
     '''
 
     import numpy as np
 
-    magnitude = np.sqrt(X**2 + Y**2 + Z**2)
+    magnitude = np.sqrt(X**np.int(2) + Y**np.int(2)  + Z**np.int(2))
 
     return(magnitude)

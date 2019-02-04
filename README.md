@@ -11,7 +11,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [Lab 2 - Multi-plots and Datetime Objects (1/21/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab2/Lab2_BirdRanges.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ecosystem Impacts: Looking at Audubon Society Data on Bird Wintering Patterns
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: superseded by http://climate.audubon.org/article/audubon-report-glance#FAQ-4. Update for 2020  planned.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: http://climate.audubon.org/article/audubon-report-glance#FAQ-4. Update for 2020  planned.
 
 ### [Lab 3 - Image Manipulation and Spacecraft Data (1/28/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab3/Lab3_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Images with Jupyter: Looking at Spacecraft Image Data from the Recent Juno Mission  
@@ -19,15 +19,15 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [EXTRA Course Lecture - From Chart to Art (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/CLaSP405_W19_4Visualization.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecture for course on visualization basics.
 
-### [EXTRA Frequently Asked Questions (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grouping of frequently asked questions with regards to the lab material. 
-
 ### [Lab 4 - Data Merging and Indexing with Spacecraft Data (2/3/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data with Jupyter: Looking at Magnetic Field Data from the Recent Juno Mission
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: For the error analysis section there are eqns written in LaTeX.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They do not show up with Github's preview - if you want to view these please download the Jupyter notebook.  
+
+### [EXTRA Frequently Asked Questions (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grouping of frequently asked questions with regards to the lab material. 
 
 # 2018 Content - To Be Updated in 2019 with Current Course
 ### [Lab 5 - Groupby, Normal Distributions, & Boxplots (2/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab5/Lab5_NormalsTempsHealthImpacts.ipynb)  

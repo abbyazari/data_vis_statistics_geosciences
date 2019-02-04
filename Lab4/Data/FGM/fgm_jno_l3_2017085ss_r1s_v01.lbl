@@ -1,0 +1,203 @@
+PDS_VERSION_ID                  = PDS3                                        
+RECORD_TYPE                     = STREAM                                      
+DATA_SET_ID                     = "JNO-J-3-FGM-CAL-V1.0"                      
+TARGET_NAME                     = "JUPITER"                                   
+MISSION_PHASE_NAME              = "SCIENCE ORBITS"                            
+ORBIT_NUMBER                    = 5                                           
+SPACECRAFT_NAME                 = "JUNO"                                      
+START_TIME                      = 2017-085T00:00:01.587                       
+STOP_TIME                       = 2017-086T00:00:00.510                       
+SPACECRAFT_CLOCK_START_COUNT    = "UNK"                                       
+SPACECRAFT_CLOCK_STOP_COUNT     = "UNK"                                       
+INSTRUMENT_ID                   = FGM                                         
+INSTRUMENT_NAME                 = MAGNETOMETER                                
+^HEADER = ("fgm_jno_l3_2017085ss_r1s_v01.sts", 1<BYTES>)                      
+^TABLE  = ("fgm_jno_l3_2017085ss_r1s_v01.sts", 8463<BYTES>)                   
+PRODUCT_ID                      = "FGM_JNO_L3_2017085SS_R1S"                  
+ORIGINAL_PRODUCT_ID             = "fgm_jno_l3_2017085ss_r1s_v01.sts"          
+STANDARD_DATA_PRODUCT_ID        = "SS 1 SECOND"                               
+PRODUCT_VERSION_ID              = "01"                                        
+PRODUCT_CREATION_TIME           = 2017-09-22T17:01:24                         
+MD5_CHECKSUM                    = "f785c7c84db9652f52035864804ccb8c"          
+PROCESSING_LEVEL_ID             = "3"                                         
+FILE_RECORDS                    = 86506                                       
+                                                                              
+DESCRIPTION                     = "                                           
+This file contains vector magnetic field data acquired by the                 
+Fluxgate Magnetometer instrument aboard the Juno spacecraft.                  
+The data are calibrated and provided in physical units (nT).                  
+The data has been downsampled to 1 second to provide a more                   
+compact dataset.  The data are expressed in                                   
+Sun-State coordinates.                                                        
+"                                                                             
+                                                                              
+/* Processing Information */                                                  
+                                                                              
+SPICE_FILE_NAME                 = {                                           
+               "juno_rec_pj05a_170301_170327_170918a.tm",                     
+               "mission_juno.ker",                                            
+               "sc_mod.ker",                                                  
+               "juno_mags_pj05a_170301_170327_170914a.ker",                   
+               "juno_v12.tf",                                                 
+               "naif0012.tls",                                                
+               "pck00010.tpc",                                                
+               "JNO_SCLKSCET.00063.tsc",                                      
+               "de434s.bsp",                                                  
+               "jup310.bsp",                                                  
+               "juno_struct_v04.bsp",                                         
+               "spk_rec_170228_170422_170427.bsp",                            
+               "juno_sc2fgmib_zero_110801_171101_v01.bc",                     
+               "juno_sc2fgmob_zero_110801_171101_v01.bc",                     
+               "juno_sc_rec_170226_170304_v01.bc",                            
+               "juno_sc_rec_170305_170311_v01.bc",                            
+               "juno_sc_rec_170312_170318_v01.bc",                            
+               "juno_sc_rec_170319_170325_v01.bc",                            
+               "juno_sc_rec_170326_170401_v01.bc"}                            
+                                                                              
+NOTE                            = "                                           
+This note contain further information about the processing of the             
+data, as provided by the MAG Team.  Please see the SPICE_FILE_NAME            
+keyword above for the names of the SPICE kernels used.                        
+                                                                              
+  PROGRAM   =  jan                                                            
+  CMD_LINE  =  -odl -jupiter -ss -dz time dday ob_b posn                      
+                                                                              
+                    *** END OF NOTE ***                                       
+"                                                                             
+OBJECT                           = HEADER                                     
+ BYTES                            = 8462                                      
+ HEADER_TYPE                      = TEXT                                      
+END_OBJECT                       = HEADER                                     
+                                                                              
+/* Data Structure Description Information */                                  
+                                                                              
+OBJECT                           = TABLE                                      
+  NAME                           = "MAG DATA"                                 
+  INTERCHANGE_FORMAT             = ASCII                                      
+  ROWS                           = 86392                                      
+  ROW_BYTES                      = 129                                        
+  COLUMNS                        = 9                                          
+  DESCRIPTION                    = "                                          
+  The magnetic field data are stored in a fixed field ASCII table             
+  structure that immediately follows the attached header.  This table         
+  contains time-tagged rows of magnetic field values and instrument           
+  dynamic range identifiers."                                                 
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "SAMPLE UTC"                              
+    COLUMN_NUMBER                 = 1                                         
+    DATA_TYPE                     = CHARACTER                                 
+    PPI:TIME_FORMAT               = "%YEAR% %DOY% %HR% %MIN% %SEC% %MSEC%"    
+    START_BYTE                    = 3                                         
+    BYTES                         = 21                                        
+    UNIT                          = "N/A"                                     
+    DESCRIPTION                   = "                                         
+Universal time of the sample at the spacecraft.  The time appears as 6        
+integer columns (year, day of year, hour, minute, seconds, millisecond).      
+Individual elements of the time column are separated by a single ASCII        
+space character and have leading zeros omitted.  The individual elements      
+can be read by using the following FORTRAN format:                            
+'(2X,I4,1X,I3,3(1X,I2),1X,I3)' IYR IDOY IHR IMIN ISEC IMSEC"                  
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "DECIMAL DAY"                             
+    COLUMN_NUMBER                 = 2                                         
+    DATA_TYPE                     = "ASCII_REAL"                              
+    FORMAT                        = "F13.9"                                   
+    START_BYTE                    = 25                                        
+    BYTES                         = 13                                        
+    UNIT                          = "N/A"                                     
+    DESCRIPTION                   = "                                         
+Decimal day of year.  This column provides a second representation of         
+the sample time."                                                             
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "BX SUN-STATE"                            
+    COLUMN_NUMBER                 = 3                                         
+    DATA_TYPE                     = "ASCII_REAL"                              
+    FORMAT                        = "F12.2"                                   
+    START_BYTE                    = 40                                        
+    BYTES                         = 12                                        
+    UNIT                          = "NT"                                      
+    DESCRIPTION                   = "                                         
+B-field X-component in Sun-State coordinate system."                          
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "BY SUN-STATE"                            
+    COLUMN_NUMBER                 = 4                                         
+    DATA_TYPE                     = "ASCII_REAL"                              
+    FORMAT                        = "F12.2"                                   
+    START_BYTE                    = 53                                        
+    BYTES                         = 12                                        
+    UNIT                          = "NT"                                      
+    DESCRIPTION                   = "                                         
+B-field Y-component in Sun-State coordinate system."                          
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "BZ SUN-STATE"                            
+    COLUMN_NUMBER                 = 5                                         
+    DATA_TYPE                     = "ASCII_REAL"                              
+    FORMAT                        = "F12.2"                                   
+    START_BYTE                    = 66                                        
+    BYTES                         = 12                                        
+    UNIT                          = "NT"                                      
+    DESCRIPTION                   = "                                         
+B-field Z-component in Sun-State coordinate system."                          
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "INSTRUMENT RANGE"                        
+    COLUMN_NUMBER                 = 6                                         
+    DATA_TYPE                     = "ASCII_REAL"                              
+    FORMAT                        = "F3.0"                                    
+    START_BYTE                    = 79                                        
+    BYTES                         = 3                                         
+    UNIT                          = "N/A"                                     
+    DESCRIPTION                   = "                                         
+Instrument dynamic range identifier at time of the sample.                    
+Pertains to B components."                                                    
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "X"                                       
+    COLUMN_NUMBER                 = 7                                         
+    DATA_TYPE                     = "ASCII_REAL"                              
+    FORMAT                        = "F14.3"                                   
+    START_BYTE                    = 84                                        
+    BYTES                         = 14                                        
+    UNIT                          = "KILOMETERS"                              
+    DESCRIPTION                   = "                                         
+Spacecraft position X-component in Sun-State coordinate system."              
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "Y"                                       
+    COLUMN_NUMBER                 = 8                                         
+    DATA_TYPE                     = "ASCII_REAL"                              
+    FORMAT                        = "F14.3"                                   
+    START_BYTE                    = 99                                        
+    BYTES                         = 14                                        
+    UNIT                          = "KILOMETERS"                              
+    DESCRIPTION                   = "                                         
+Spacecraft position Y-component in Sun-State coordinate system."              
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+  OBJECT                         = COLUMN                                     
+    NAME                          = "Z"                                       
+    COLUMN_NUMBER                 = 9                                         
+    DATA_TYPE                     = "ASCII_REAL"                              
+    FORMAT                        = "F14.3"                                   
+    START_BYTE                    = 114                                       
+    BYTES                         = 14                                        
+    UNIT                          = "KILOMETERS"                              
+    DESCRIPTION                   = "                                         
+Spacecraft position Z-component in Sun-State coordinate system."              
+  END_OBJECT                     = COLUMN                                     
+                                                                              
+END_OBJECT                       = TABLE                                      
+                                                                              
+END                                                                           

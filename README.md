@@ -19,7 +19,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 ### [EXTRA Course Lecture - From Chart to Art (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/CLaSP405_W19_4Visualization.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecture for course on visualization basics.
 
-### [Lab 4 - Data Merging and Indexing with Spacecraft Data (2/3/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
+### [Lab 4 - Data Merging and Indexing with Spacecraft Data (2/5/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data with Jupyter: Looking at Magnetic Field Data from the Recent Juno Mission
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: For the error analysis section there are eqns written in LaTeX.
@@ -66,7 +66,7 @@ This class has been developed in collaboration between [Dr. Michael Liemohn](htt
 
 Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data, Gabriel Harp the Research Director of ArtsEngin at University of Michigan for pointing us toward climate health impact data, space scientist [Doga Ozturk](http://orcid.org/0000-0002-8071-2707) for expertise in space weather informatics, solar physicist [Yeimy Rivera](http://clasp.engin.umich.edu/people/yrivera/GSTUDENT) for expertise in solar surface data, and Jeff Lockhart of the [Computational Social Scientists](https://github.com/UM-CSS) (CSS) for offering resources through CSS.
 
-Last update 2/3/2019
+Last update 2/5/2019
 
 # License
 The content and lessons of this repository itself is licensed under the [Creative Commons Attribution-Non Commercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). However, the specific code used within the notebooks taken out of context and to format and display that content is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).

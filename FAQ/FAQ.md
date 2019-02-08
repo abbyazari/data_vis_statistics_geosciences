@@ -26,24 +26,25 @@ This file will contain updated grouping of commonly asked questions with regards
  
 - This class is a good place to start at the upper level undergrad / graduate level on statistics and data analysis in Python. Below I list similar level classes with a different focus as well as follow on classes that are at more advanced levels. I also reccomend checking out the MIDAS certificate approved courses [here](https://midas.umich.edu/certificate/approved-courses/).
 
-
- <summary> 
-  Similar level courses with a different flavor: 
- </summary>
+   <details>
+    <summary> 
+      Similar level courses with a different flavor: 
+    </summary>
  
-- STATS 412 Introduction to Probability & Statistics
--- More theory based and introductory stats
-- STATS 451 Bayesian Data Analysis 
--- Less visualization, more theory, more Bayesian
+    - STATS 412 Introduction to Probability & Statistics -- More theory based and introductory stats
+    - STATS 451 Bayesian Data Analysis -- Less visualization, more theory, more Bayesian
+   </details>
+   
+    <details>
+     <summary> 
+      More advanced courses:
+     </summary>
 
- <summary> 
-  More advanced courses:
- </summary>
+    - EECS 545 Machine Learning 
+    - EECS 598 Computational Data Science
+     </details>
 
-- EECS 545 Machine Learning 
-- EECS 598 Computational Data Science
-</details>
-
+ </details>
 
 ## I'm here from space science and I've heard talk about SpacePy, astroPy, SunPy etc?
 - Go check out the Python in Heliophysics community pages and projects at https://heliopython.org/projects/.

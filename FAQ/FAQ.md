@@ -10,7 +10,7 @@ This file will contain updated grouping of commonly asked questions with regards
 - Lab 1 has a lot of what you need to get started. Begin there then pick and choose what labs you would like after that but make sure to start with Lab 1 as it has a lot of the basics of Python oddities in there. 
 
 ## I'm at the University of Michigan and want to see what other classes there are around?
-- This class is a good place to start at the upper level undergrad / graduate level on statistics and data analysis in Python. Below I list similar level classes in alternative views on stats as well as follow on classes that are at more advanced levels. I also reccomend checking out the MIDAS certificate approved courses [here](https://midas.umich.edu/certificate/approved-courses/)
+- This class is a good place to start at the upper level undergrad / graduate level on statistics and data analysis in Python. Below I list similar level classes with a different focus as well as follow on classes that are at more advanced levels. I also reccomend checking out the MIDAS certificate approved courses [here](https://midas.umich.edu/certificate/approved-courses/)
 
 Similar level courses with a different flavor: 
 - STATS 412 Introduction to Probability & Statistics

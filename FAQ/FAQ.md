@@ -74,7 +74,7 @@ This file will contain updated grouping of commonly asked questions with regards
   I just want a quick way to tell if my figure is understandable by many people?
  </summary>
  
-- Go check out the [visualization lectures](https://github.com/astro-abby/data_vis_statistics_geosciences/tree/master/VisualizationBasics). This is a quick tool that you can install to see if your figures are readable for different types of color blindness - [Color Oracle](https://colororacle.org/)
+- Go check out the [visualization lectures](https://github.com/astro-abby/data_vis_statistics_geosciences/tree/master/VisualizationBasics). This is a quick tool that you can install to see if your figures are readable for the various types of colors that people see - [Color Oracle](https://colororacle.org/)
 </details>
 
 

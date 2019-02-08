@@ -24,16 +24,22 @@ This file will contain updated grouping of commonly asked questions with regards
   I'm at the University of Michigan and want to see what other classes there are around?
  </summary>
  
-- This class is a good place to start at the upper level undergrad / graduate level on statistics and data analysis in Python. Below I list similar level classes with a different focus as well as follow on classes that are at more advanced levels. I also reccomend checking out the MIDAS certificate approved courses [here](https://midas.umich.edu/certificate/approved-courses/)
+- This class is a good place to start at the upper level undergrad / graduate level on statistics and data analysis in Python. Below I list similar level classes with a different focus as well as follow on classes that are at more advanced levels. I also reccomend checking out the MIDAS certificate approved courses [here](https://midas.umich.edu/certificate/approved-courses/).
 
-Similar level courses with a different flavor: 
+
+ <summary> 
+  Similar level courses with a different flavor: 
+ </summary>
+ 
 - STATS 412 Introduction to Probability & Statistics
 -- More theory based and introductory stats
 - STATS 451 Bayesian Data Analysis 
 -- Less visualization, more theory, more Bayesian
 
+ <summary> 
+  More advanced courses:
+ </summary>
 
-More advanced courses:
 - EECS 545 Machine Learning 
 - EECS 598 Computational Data Science
 </details>

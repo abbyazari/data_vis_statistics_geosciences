@@ -44,10 +44,13 @@ This file will contain updated grouping of commonly asked questions with regards
     - EECS 598 Computational Data Science
      </details>
 
- </details>
-
-## I'm here from space science and I've heard talk about SpacePy, astroPy, SunPy etc?
+</details>
+ 
+<details>
+  <summary> I'm here from space science and I've heard talk about SpacePy, astroPy, SunPy etc?
+  </summary>
 - Go check out the Python in Heliophysics community pages and projects at https://heliopython.org/projects/.
+</details>
 
 # Lab 1 Questions
 

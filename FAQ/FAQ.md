@@ -3,6 +3,23 @@ This file will contain updated grouping of commonly asked questions with regards
 
 # Getting Started - 
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
 ## I'm new! Where do I begin?
  - If you are new to programming or new to Python: I reccomend going through each lab in the order it is presented. Lab 1 and beyond. Each one builds off the other. Go ahead and download the whole repository and work through it at the pace that feels right. I reccomend weekly lab time just so that it stays fresh! You can get Python for FREE through either through the Canopy or the Anaconda distribution. The labs were made and tested with the Anaconda distribution. 
 

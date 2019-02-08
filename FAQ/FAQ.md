@@ -5,14 +5,19 @@ This file will contain updated grouping of commonly asked questions with regards
 
 <details>
  <summary> 
-  *I'm new! Where do I begin?*
+  I'm new! Where do I begin?
  </summary>
 
  - If you are new to programming or new to Python: I reccomend going through each lab in the order it is presented. Lab 1 and beyond. Each one builds off the other. Go ahead and download the whole repository and work through it at the pace that feels right. I reccomend weekly lab time just so that it stays fresh! You can get Python for FREE through either through the Canopy or the Anaconda distribution. The labs were made and tested with the Anaconda distribution. 
-</details>
 
-## I'm here to learn Python but code in space science / climate science. Where do I begin?
+
+<details>
+ <summary> 
+  I'm here to learn Python but code in space science / climate science. Where do I begin?
+ </summary>
+ 
 - Lab 1 has a lot of what you need to get started. Begin there then pick and choose what labs you would like after that but make sure to start with Lab 1 as it has a lot of the basics of Python oddities in there. 
+</details>
 
 ## I'm at the University of Michigan and want to see what other classes there are around?
 - This class is a good place to start at the upper level undergrad / graduate level on statistics and data analysis in Python. Below I list similar level classes with a different focus as well as follow on classes that are at more advanced levels. I also reccomend checking out the MIDAS certificate approved courses [here](https://midas.umich.edu/certificate/approved-courses/)

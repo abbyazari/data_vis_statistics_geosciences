@@ -67,3 +67,15 @@ This file will contain updated grouping of commonly asked questions with regards
 - vmin and vmax set the scale of the colorbar, whereas set_under() sets all the values under the scale to the color that you specify. If vmin is set to the lowest value in the data you are plotting, then set_under() has no effect. 
 </details>
 
+
+# Visualizations 
+<details>
+ <summary> 
+  I just want a quick way to tell if my figure is understandable by many people?
+ </summary>
+ 
+- Go check out the [visualization lectures](https://github.com/astro-abby/data_vis_statistics_geosciences/tree/master/VisualizationBasics). This is a quick tool that you can install to see if your figures are readable for different types of color blindness - [Color Oracle](https://colororacle.org/)
+</details>
+
+
+

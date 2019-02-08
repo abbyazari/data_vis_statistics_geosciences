@@ -57,6 +57,11 @@ This file will contain updated grouping of commonly asked questions with regards
 # Lab 2 Questions
 
 # Lab 3 Questions
-
-## How do vmin, vmax, and set_under() work together?
+<details>
+ <summary> 
+  How do vmin, vmax, and set_under() work together?
+ </summary>
+ 
 - vmin and vmax set the scale of the colorbar, whereas set_under() sets all the values under the scale to the color that you specify. If vmin is set to the lowest value in the data you are plotting, then set_under() has no effect. 
+</details>
+

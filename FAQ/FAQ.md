@@ -1,7 +1,7 @@
 # Frequently Asked Questions Section
 This file contains groupings of commonly asked questions with regards to Python, visualization, and statistics. 
 
-# Getting Started - 
+# Getting Started 
 
 <details>
  <summary> 

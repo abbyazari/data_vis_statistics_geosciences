@@ -55,6 +55,16 @@ This file will contain updated grouping of commonly asked questions with regards
 - Go check out the Python in Heliophysics community pages and projects at https://heliopython.org/projects/.
 </details>
 
+<details>
+  <summary> I'm here from climate science and am most familiar with NCL. 
+  </summary>
+ 
+- NCAR has moved toward Python for future development. Go check out their roadmap and report [here](http://www.ncl.ucar.edu/Document/Pivot_to_Python/NCL_Pivot_to_Python_Report_and_Roadmap.pdf). I reccomend seeing the NCAR supported transition documentations providing NCL to Python comparisons at the following links:
+
+- [Transition Guide](http://www.ncl.ucar.edu/Document/Manuals/NCL_to_Python/Transition_Guide_NCL_PyNGL.pdf)
+- [Quick Look Applications](http://www.ncl.ucar.edu/Applications/NCL_to_Python/)
+</details>
+
 # Lab 1 Questions
 <details>
   <summary> I'm feeling overwhelmed writing my own code. How do I start this? 

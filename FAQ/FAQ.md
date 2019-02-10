@@ -75,6 +75,13 @@ This file will contain updated grouping of commonly asked questions with regards
 You can do this! If you start getting overwhelmed take a step back and make sure that you know where you are headed with your code. 
 </details>
 
+<details>
+  <summary> What does the % character do in the labs? Specically in the %matplotlib inline? 
+  </summary>
+ 
+ - This is a 'magic' command which enables the plots to be shows within the Jupyter notebook itself. 
+</details>
+
 # Lab 2 Questions
 
 # Lab 3 Questions

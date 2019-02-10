@@ -62,15 +62,15 @@ This file will contain updated grouping of commonly asked questions with regards
  
   - Coding is not a profession that runs on natural talent. Most of coding is an iterative process where you try, receive an error, and try again. Errors are a natural part of programming. You should expect to have your notebooks throw errors at you and to then figure out how to fix them. As you code you will need to use resources such as the help() function, resources you find in books and online including these notebooks here! I wanted to share with you an outline to get started writing your own code that I've found particularly useful: 
 
-- Step 1: Make an outline. Before starting coding, make an outline (pencil and paper) of what you want to accomplish. You should know where you want to go before you begin coding. 
+- **Step 1: Make an outline.** Before starting coding, make an outline (pencil and paper) of what you want to accomplish. You should know where you want to go before you begin coding. 
 
-- Step 2: Build Up. Don't try to code everything in one Jupyter cell at once. Build up to your goals by picking pieces of your code to implement. It's a lot easier to deal with 1 error than 10 errors. 
+- **Step 2: Build Up.** Don't try to code everything in one Jupyter cell at once. Build up to your goals by picking pieces of your code to implement. It's a lot easier to deal with 1 error than 10 errors. 
 
-- Step 3: Analyze the errors. When an error is thrown, read it. The last part of the error message is the type of error that Python found, the beginning of the message tells you where in your code itself the error happened. 
+- **Step 3: Analyze the errors.** When an error is thrown, read it. The last part of the error message is the type of error that Python found, the beginning of the message tells you where in your code itself the error happened. 
 
-- Step 4: Get help. If you can't figure out from the error message or your own code what's going wrong, don't be afraid to ask the internet! Most of the time with Python the errors are explained online either by other coders or by looking up the help() function or through the Python documentation online.
+- **Step 4: Get help.** If you can't figure out from the error message or your own code what's going wrong, don't be afraid to ask the internet! Most of the time with Python the errors are explained online either by other coders or by looking up the help() function or through the Python documentation online.
 
-Step 5: Clean and curate. Make sure your code makes sense, is logical, is professional (I reccomend following the [Python style guide](https://www.python.org/dev/peps/pep-0008/)), and has clearly defined variables etc. 
+- **Step 5: Clean and curate.** Make sure your code makes sense, is logical, is professional (I reccomend following the [Python style guide](https://www.python.org/dev/peps/pep-0008/)), and has clearly defined variables etc. 
 
 You can do this! If you start getting overwhelmed take a step back and make sure that you know where you are headed with your code. 
 </details>

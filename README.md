@@ -7,6 +7,10 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 Make sure you check out the [Frequently Asked Questions](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md) section as you go through the labs. 
 
 # Current Content
+
+### [Frequently Asked Questions (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grouping of frequently asked questions with regards to the lab material. 
+
 ### [Lab 1 - Intro to Python - What IS Pandas? (1/13/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab1/Lab1_ClimaticAverages_GlobalTemperatures.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Temperature Changes: Looking at Global Temperature Variances in the Last Century 
 
@@ -28,8 +32,6 @@ Make sure you check out the [Frequently Asked Questions](https://github.com/astr
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They do not show up with Github's preview - if you want to view these please download the Jupyter notebook.  
 
-### [EXTRA Frequently Asked Questions (2/3/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grouping of frequently asked questions with regards to the lab material. 
 
 # 2018 Content - To Be Updated in 2019 with Current Course
 ### [Lab 5 - Groupby, Normal Distributions, & Boxplots (2/7/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab5/Lab5_NormalsTempsHealthImpacts.ipynb)  

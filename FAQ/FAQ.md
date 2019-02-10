@@ -56,7 +56,7 @@ This file will contain updated grouping of commonly asked questions with regards
 </details>
 
 <details>
-  <summary> I'm here from climate science and am most familiar with NCL. 
+  <summary> I'm here from climate science and am most familiar with NCL. Where should I look?
   </summary>
  
 - NCAR has moved toward Python for future development. Go check out their roadmap and report [here](http://www.ncl.ucar.edu/Document/Pivot_to_Python/NCL_Pivot_to_Python_Report_and_Roadmap.pdf). I reccomend seeing the NCAR supported transition documentations providing NCL to Python comparisons at the following links:

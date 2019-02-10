@@ -18,7 +18,7 @@ This file will contain updated grouping of commonly asked questions with regards
   I'm here to learn Python but code in space science / climate science. Where do I begin?
  </summary>
  
-- Lab 1 has a lot of what you need to get started. Begin there then pick and choose what labs you would like after that but make sure to start with Lab 1 as it has a lot of the basics of Python oddities in there. 
+ - Lab 1 has a lot of what you need to get started. Begin there then pick and choose what labs you would like after that but make sure to start with Lab 1 as it has a lot of the basics of Python oddities in there. 
 </details>
 
 <details>
@@ -26,7 +26,7 @@ This file will contain updated grouping of commonly asked questions with regards
   I'm at the University of Michigan and want to see what other classes there are around?
  </summary>
  
-- This class is a good place to start at the upper level undergrad / graduate level on statistics and data analysis in Python. Below I list similar level classes with a different focus as well as follow on classes that are at more advanced levels. I also reccomend checking out the MIDAS certificate approved courses [here](https://midas.umich.edu/certificate/approved-courses/).
+ - This class is a good place to start at the upper level undergrad / graduate level on statistics and data analysis in Python. Below I list similar level classes with a different focus as well as follow on classes that are at more advanced levels. I also reccomend checking out the MIDAS certificate approved courses [here](https://midas.umich.edu/certificate/approved-courses/).
 
    <details>
     <summary> 
@@ -51,6 +51,7 @@ This file will contain updated grouping of commonly asked questions with regards
 <details>
   <summary> I'm here from space science and I've heard talk about SpacePy, astroPy, SunPy etc?
   </summary>
+ 
 - Go check out the Python in Heliophysics community pages and projects at https://heliopython.org/projects/.
 </details>
 
@@ -58,6 +59,7 @@ This file will contain updated grouping of commonly asked questions with regards
 <details>
   <summary> I'm feeling overwhelmed writing my own code. How do I start this? 
   </summary>
+ 
   - Coding is not a profession that runs on natural talent. Most of coding is an iterative process where you try, receive an error, and try again. Errors are a natural part of programming. You should expect to have your notebooks throw errors at you and to then figure out how to fix them. As you code you will need to use resources such as the help() function, resources you find in books and online including these notebooks here! I wanted to share with you an outline to get started writing your own code that I've found particularly useful: 
 
 - Step 1: Make an outline. Before starting coding, make an outline (pencil and paper) of what you want to accomplish. You should know where you want to go before you begin coding. 

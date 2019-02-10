@@ -84,7 +84,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 # Lab 2 Questions
 <details>
-  <summary> What must I set the limits for all my subplots? 
+  <summary> What must I set the limits for subplots which share an axis? 
   </summary>
  
  - If you are merging two subplots so that you can no longer see an axis (for example in Lab 2) then it can appear that they are set on the same limits when in fact they are not restrained. You can have one plot go from 1900 - 2000 for example and the other go from 1920 to 2020 but they look the same. This is incredibly misleading and a downfall of the way we see subplots in Lab 2. For this reason you should use the set_xlim() to avoid misleading both yourself and others. 

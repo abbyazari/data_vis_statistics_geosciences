@@ -83,6 +83,13 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 </details>
 
 # Lab 2 Questions
+<details>
+  <summary> What must I set the limits for all my subplots? 
+  </summary>
+ 
+ - If you are merging two subplots so that you can no longer see an axis (for example in Lab 2) then it can appear that they are set on the same limits when in fact they are not restrained. You can have one plot go from 1900 - 2000 for example and the other go from 1920 to 2020 but they look the same. This is incredibly misleading and a downfall of the way we see subplots in Lab 2. For this reason you should use the set_xlim() to avoid misleading both yourself and others. 
+ 
+</details>
 
 # Lab 3 Questions
 <details>
@@ -93,6 +100,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - vmin and vmax set the scale of the colorbar, whereas set_under() sets all the values under the scale to the color that you specify. If vmin is set to the lowest value in the data you are plotting, then set_under() has no effect. 
 </details>
 
+# Lab 4 Questions
 
 # Visualizations 
 <details>

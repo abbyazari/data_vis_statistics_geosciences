@@ -91,6 +91,15 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  
 </details>
 
+<details>
+  <summary> Should I use a datetime index for everything? 
+  </summary>
+ 
+ - Most certainly not! There are some advantages that we see later in the labs, but if you have a datetime index for example that has extreme accuracy to the millisecond, this can be quite annoying as an index! It's up to your discretion if it's more or less useful to have a datetime index. I do reccomend always keeping your original datetime data in your dataframe just in case you corrupt your index upon conversion or other manipulations. 
+ 
+</details>
+
+
 # Lab 3 Questions
 <details>
  <summary> 

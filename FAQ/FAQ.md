@@ -1,5 +1,5 @@
 # Frequently Asked Questions Section
-This file will contain updated grouping of commonly asked questions with regards to Python, visualization, and statistics. 
+This file contains groupings of commonly asked questions with regards to Python, visualization, and statistics. 
 
 # Getting Started - 
 

@@ -122,7 +122,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 <details>
  <summary> 
-  What if I have NaN's as well as a value I want to use to set_under?
+  What if I have NaN values as well as a value I want to use to set_under?
  </summary>
  
 - This isn't shows in Lab 3 but is a very common issue when dealing with plots with both low values and NaN values. The functionality you want is the set_under() AND the set_bad() options. There are several good examples in the official [Matplotlib documentation](https://matplotlib.org/examples/pylab_examples/image_masked.html).
@@ -130,7 +130,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 <details>
  <summary> 
-  What if I have NaN's and want to take some summary statistics?
+  What if I have NaN values and want to take some summary statistics?
  </summary>
  
 - Within Python generally NaNs in objects result in unexpected behaivor. There are several ways to get around this in Python. Some functions have a nan version like np.mean() vs np.nanmean(). Pandas has some nice inbuilt behavior to handle this through the isnull() method which generates a Boolean array. A good summary with examples can be found [here](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html).

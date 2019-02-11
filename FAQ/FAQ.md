@@ -135,6 +135,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - This isn't shows in Lab 3 but the functionality you want is the set_under() AND the set_bad() options. There are several good examples in the official [Matplotlib documentation](https://matplotlib.org/examples/pylab_examples/image_masked.html).
 </details>
 
+<details>
  <summary> 
   What if I have NaN's and want to take some summary statistics?
  </summary>

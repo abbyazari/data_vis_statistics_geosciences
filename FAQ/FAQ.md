@@ -119,6 +119,29 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - vmin and vmax set the scale of the colorbar, whereas set_under() sets all the values under the scale to the color that you specify. If vmin is set to the lowest value in the data you are plotting, then set_under() has no effect. 
 </details>
 
+<details>
+ <summary> 
+  How do vmin, vmax, and set_under() work together?
+ </summary>
+ 
+- vmin and vmax set the scale of the colorbar, whereas set_under() sets all the values under the scale to the color that you specify. If vmin is set to the lowest value in the data you are plotting, then set_under() has no effect. 
+</details>
+
+<details>
+ <summary> 
+  What if I have NaN's as well as a value I want to use to set_under?
+ </summary>
+ 
+- This isn't shows in Lab 3 but the functionality you want is the set_under() AND the set_bad() options. There are several good examples in the official [Matplotlib documentation](https://matplotlib.org/examples/pylab_examples/image_masked.html).
+</details>
+
+ <summary> 
+  What if I have NaN's and want to take some summary statistics?
+ </summary>
+ 
+- Within Python generally NaNs in objects result in unexpected behaivor. There are several ways to get around this in Python. Some functions have a nan version like np.mean() vs np.nanmean(). Pandas has some nice inbuilt behavior to handle this through the isnull() method which generates a Boolean array. A good summary with examples can be found [here](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html).
+</details>
+
 # Lab 4 Questions
 
 # Visualizations 

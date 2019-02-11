@@ -111,13 +111,6 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 
 # Lab 3 Questions
-<details>
- <summary> 
-  How do vmin, vmax, and set_under() work together?
- </summary>
- 
-- vmin and vmax set the scale of the colorbar, whereas set_under() sets all the values under the scale to the color that you specify. If vmin is set to the lowest value in the data you are plotting, then set_under() has no effect. 
-</details>
 
 <details>
  <summary> 
@@ -132,7 +125,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
   What if I have NaN's as well as a value I want to use to set_under?
  </summary>
  
-- This isn't shows in Lab 3 but the functionality you want is the set_under() AND the set_bad() options. There are several good examples in the official [Matplotlib documentation](https://matplotlib.org/examples/pylab_examples/image_masked.html).
+- This isn't shows in Lab 3 but is a very common issue when dealing with plots with both low values and NaN values. The functionality you want is the set_under() AND the set_bad() options. There are several good examples in the official [Matplotlib documentation](https://matplotlib.org/examples/pylab_examples/image_masked.html).
 </details>
 
 <details>

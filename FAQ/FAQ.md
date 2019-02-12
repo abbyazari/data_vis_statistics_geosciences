@@ -109,6 +109,13 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  
 </details>
 
+<details>
+  <summary> I'm having trouble understanding the syntax on subplots. How is fig, gridspec, etc different from each other?
+  </summary>
+ 
+ - Python is object oriented, that means it's easiest for some people to think of plotting in a similar vein. You are creating multiple instances of different classes of objects that when plotted interact with each other to make the final graphic. Or put more understandably, you create the fig, then the gridspec, then the ax and all of these things in the code interact with each other to make the final graphic. Each of these things (instances of the class of object) have different qualities (attributes/methods) that you can manipulate to make your final graphic. This is why you have so much flexibility in graphics in Python (and possibly frustration).
+ 
+</details>
 
 # Lab 3 Questions
 

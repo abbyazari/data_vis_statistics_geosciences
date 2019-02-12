@@ -28,9 +28,9 @@ Make sure you check out the [Frequently Asked Questions](https://github.com/astr
 ### [Lab 4 - Data Merging and Indexing with Spacecraft Data (2/5/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab4/Lab4_JupiterFlyBy.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupiter Data with Jupyter: Looking at Magnetic Field Data from the Recent Juno Mission
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: For the error analysis section there are eqns written in LaTeX.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: For the error analysis section there are equations written in LaTeX.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They do not show up with Github's preview - if you want to view these please download the Jupyter notebook.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They might not show up with Github's preview - if you want to view these please download the Jupyter notebook.  
 
 
 # 2018 Content - To Be Updated in 2019 with Current Course

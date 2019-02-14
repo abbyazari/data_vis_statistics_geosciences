@@ -65,6 +65,14 @@ This file contains groupings of commonly asked questions with regards to Python,
 - [Quick Look Applications](http://www.ncl.ucar.edu/Applications/NCL_to_Python/)
 </details>
 
+
+<details>
+  <summary> I'm here from social sciences. Where should I start?
+  </summary>
+ 
+- Make sure you check out the [ICOS Big Data Camp](https://icosbigdatacamp.github.io/2018-summer-camp/) resources from the most recent camp in 2018. They include note only a subset of this course but also a full week long series of seminars and workshops. It will be held again in the spring of 2019 at University of Michigan. 
+</details>
+
 # Lab 1 Questions
 <details>
   <summary> I'm feeling overwhelmed writing my own code. How do I start this? 

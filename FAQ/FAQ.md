@@ -59,7 +59,7 @@ This file contains groupings of commonly asked questions with regards to Python,
   <summary> I'm here from climate science and am most familiar with NCL. Where should I look?
   </summary>
  
-- NCAR has moved toward Python for future development. Go check out their roadmap and report [here](http://www.ncl.ucar.edu/Document/Pivot_to_Python/NCL_Pivot_to_Python_Report_and_Roadmap.pdf). I reccomend seeing the NCAR supported transition documentations providing NCL to Python comparisons at the following links:
+- NCAR has moved toward Python for future development. Go check out their roadmap and report [here](http://www.ncl.ucar.edu/Document/Pivot_to_Python/NCL_Pivot_to_Python_Report_and_Roadmap.pdf). If you are ready to dive in start with [Lab 6](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab6/Lab6_MappingSeaIce.ipynb) which covers netCDF files and geolocated data. I also reccomend seeing the NCAR supported transition documentations providing NCL to Python comparisons at the following links:
 
 - [Transition Guide](http://www.ncl.ucar.edu/Document/Manuals/NCL_to_Python/Transition_Guide_NCL_PyNGL.pdf)
 - [Quick Look Applications](http://www.ncl.ucar.edu/Applications/NCL_to_Python/)

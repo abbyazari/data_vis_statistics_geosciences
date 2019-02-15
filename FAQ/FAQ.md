@@ -146,6 +146,8 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 </details>
 
 
+
+
 # Lab 4 Questions
 <details>
  <summary> 
@@ -154,6 +156,16 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  
 - Within Python generally NaNs in objects result in unexpected behaivor. There are several ways to get around this in Python. Some functions have a nan version like np.mean() vs np.nanmean(). Pandas has some nice inbuilt behavior to handle this through the isnull() method which generates a Boolean array. A good summary with examples can be found [here](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html).
 </details>
+
+<details>
+ <summary> 
+  What is this .format() syntax for printing things?
+ </summary>
+ 
+- Within Python (and other languages!) you can print out values nicely through string formatting. In Python this works as '{}'.format(value) where within the {} it will print the value as a string. You can format the value to be printed using different format codes. I personally like the guide located [here](https://pyformat.info/) on the different ways to format strings.
+</details>
+
+
 
 # Visualizations 
 <details>

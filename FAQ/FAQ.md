@@ -44,6 +44,7 @@ This file contains groupings of commonly asked questions with regards to Python,
 
     - EECS 545 Machine Learning 
     - EECS 598 Computational Data Science
+    - TO 640 Big Data Management: Tools and Techniques
      </details>
 
 </details>

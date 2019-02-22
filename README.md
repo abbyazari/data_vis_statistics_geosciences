@@ -35,7 +35,7 @@ Make sure you check out the [Frequently Asked Questions](https://github.com/astr
 ### [Lab 5 - Groupby, Normal Distributions, & Boxplots (2/12/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab5/Lab5_NormalsTempsHealthImpacts.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health Impacts: Normal Distributions of Temperature and Boxplots of Extremes
 
-### [Lab 6 - Linear Regression & Geo-Mapping with Sea Ice (2/19/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab6/Lab6_MappingSeaIce.ipynb)  
+### [Lab 6 - Linear Regression & Geo-Mapping with Sea Ice (2/19/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab6/Lab6_MappingSeaIce.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arctic Indicators: Calculating Rates of Change of Sea Ice Extent & Mapping
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: The netCDF file required for analysis must be downloaded seperately. 

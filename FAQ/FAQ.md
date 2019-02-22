@@ -75,7 +75,7 @@ This file contains groupings of commonly asked questions with regards to Python,
 - Make sure you check out the [ICOS Big Data Camp](https://icosbigdatacamp.github.io/2018-summer-camp/) resources from the most recent camp in 2018. They include note only a subset of this course but also a full week long series of seminars and workshops. It will be held again in the spring of 2019 at University of Michigan. 
 </details>
 
-# Lab 1 Questions
+# Lab 1 
 <details>
   <summary> I'm feeling overwhelmed writing my own code. How do I start this? 
   </summary>
@@ -102,7 +102,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  - This is a 'magic' command which enables the plots to be shows within the Jupyter notebook itself. 
 </details>
 
-# Lab 2 Questions
+# Lab 2 
 <details>
   <summary> What must I set the limits for subplots which share an axis? 
   </summary>
@@ -127,7 +127,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  
 </details>
 
-# Lab 3 Questions
+# Lab 3 
 
 <details>
  <summary> 
@@ -148,7 +148,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 
 
-# Lab 4 Questions
+# Lab 4 
 <details>
  <summary> 
   What if I have NaN values and want to take some summary statistics?
@@ -183,7 +183,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 
 
-# Lab 5 Questions
+# Lab 5 
 <details>
  <summary> 
   Why did plotting the anomaly values rather than the t-values (Part 2. C.) change the look of the plot?

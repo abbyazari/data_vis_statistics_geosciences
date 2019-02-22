@@ -165,6 +165,23 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - Within Python (and other languages!) you can print out values nicely through string formatting. In Python this works as '{}'.format(value) where within the {} it will print the value as a string. You can format the value to be printed using different format codes. I personally like the guide located [here](https://pyformat.info/) on the different ways to format strings.
 </details>
 
+<details>
+ <summary> 
+  I'm having trouble orienting my understanding of the error propagation section in part 6 - how did you know what rule to use?
+ </summary>
+ 
+- Within our course textbook, An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements chapter three covers various cases of the error propagation rules. You can derive them from the general form (equation 3.47). When in doubt you can always use the full form. In fact in this case, it does simplify resulting in the constant error we observe in the final plot in Part 6. 
+</details>
+
+<details>
+ <summary> 
+ What are the stripes in Part 6 the final plot?
+ </summary>
+ 
+- Because of the way we plotted the final figure, the NaN values in the array end up stopping the plotting envelope. When starting and stopping repeatedly over the x-axis this has the effect of shading the gap regions darker. Go ahead and try to change the axis limits to see a closer view of what it looks like. 
+</details>
+
+
 
 # Lab 5 Questions
 <details>

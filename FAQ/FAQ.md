@@ -219,7 +219,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - Beyond just the lab there are several examples on the web, including the documentation of the netCDF package. I reccomend the netCDF package [documentation and examples](http://unidata.github.io/netcdf4-python/).
 </details>
 
-details>
+<details>
  <summary> 
  What is this [var for var in dataset.variables] syntax?
  </summary>

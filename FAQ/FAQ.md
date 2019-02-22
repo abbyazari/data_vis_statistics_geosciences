@@ -112,6 +112,13 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  - This is a 'magic' command which enables the plots to be shows within the Jupyter notebook itself. 
 </details>
 
+<details>
+  <summary> How do you end a for loop?
+  </summary>
+ 
+ - Python syntax runs on indentation. To end a for loop, you simply move back your indentation level. You can see this in Part 4. A. 
+</details>
+
 # Lab 2 
 <details>
   <summary> What must I set the limits for subplots which share an axis? 

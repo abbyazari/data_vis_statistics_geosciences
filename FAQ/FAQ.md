@@ -1,4 +1,4 @@
-# Frequently Asked Questions Section
+# Frequently Asked Questions 
 This file contains groupings of commonly asked questions with regards to Python, visualization, and statistics. 
 
 # Getting Started 
@@ -75,7 +75,8 @@ This file contains groupings of commonly asked questions with regards to Python,
 - Make sure you check out the [ICOS Big Data Camp](https://icosbigdatacamp.github.io/2018-summer-camp/) resources from the most recent camp in 2018. They include note only a subset of this course but also a full week long series of seminars and workshops. It will be held again in the spring of 2019 at University of Michigan. 
 </details>
 
-# Lab 1 
+# General Programming
+
 <details>
   <summary> I'm feeling overwhelmed writing my own code. How do I start this? 
   </summary>
@@ -94,6 +95,15 @@ This file contains groupings of commonly asked questions with regards to Python,
 
 You can do this! If you start getting overwhelmed take a step back and make sure that you know where you are headed with your code. 
 </details>
+
+<details>
+  <summary> How do I know what syntax to use?
+  </summary>
+ 
+ - Python is extensively documented. You can use the help() function most simply or you can find most if not all of the documentation online as well. There are some general rules which we will be seeing in action in the labs for setting up for loops, functions, etc. 
+</details>
+
+# Lab 1 
 
 <details>
   <summary> What does the % character do in the labs? Specically in the %matplotlib inline? 

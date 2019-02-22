@@ -166,6 +166,15 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 </details>
 
 
+# Lab 5 Questions
+<details>
+ <summary> 
+  Why did plotting the anomaly values rather than the t-values (Part 2. C.) change the look of the plot?
+ </summary>
+ 
+- We normalized (calculated the t-values) for each month seperately. That means that we calculated the t-values for June only compared the the June distribution, July only to July etc. Each normalization comparison month has a seperate standard deviation. So when you move from anomaly value to the t-values the distribution changes.
+</details>
+
 
 # Visualizations 
 <details>

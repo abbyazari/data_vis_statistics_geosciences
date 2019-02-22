@@ -209,6 +209,24 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - We normalized (calculated the t-values) for each month seperately. That means that we calculated the t-values for June only compared the the June distribution, July only to July etc. Each normalization comparison month has a seperate standard deviation. So when you move from anomaly value to the t-values the distribution changes.
 </details>
 
+# Lab 6  
+
+<details>
+ <summary> 
+ I want to learn more about reading in netCDF files.
+ </summary>
+ 
+- Beyond just the lab there are several examples on the web, including the documentation of the netCDF package. I reccomend the netCDF package [documentation and examples](http://unidata.github.io/netcdf4-python/).
+</details>
+
+details>
+ <summary> 
+ What is this [var for var in dataset.variables] syntax?
+ </summary>
+ 
+- This is something in Python called list comprehension. It's best to think of this like a nested for loop that outputs a list. What we did in lab was make a list of the netCDF file variables. The line loops through dataset.variables and populates a list with each one. A similar list comprehension example would be [v for v in np.arange(1, 10)] which would output [1, 2, 3, 4, 5, 6, 7, 8, 9]. 
+</details>
+
 
 # Visualizations 
 <details>

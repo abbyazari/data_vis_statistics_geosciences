@@ -8,7 +8,7 @@ Make sure you check out the [Frequently Asked Questions](https://github.com/astr
 
 # Current Content
 
-### [Frequently Asked Questions (2/22/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)  
+### [Frequently Asked Questions](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grouping of frequently asked questions on programming, visualization, and statistics.
 
 ### [Lab 1 - Intro to Python - What IS Pandas? (1/13/2019)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/Lab1/Lab1_ClimaticAverages_GlobalTemperatures.ipynb)

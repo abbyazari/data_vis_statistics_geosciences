@@ -37,6 +37,7 @@ This file contains groupings of commonly asked questions with regards to Python,
     - STATS 451 Bayesian Data Analysis -- Less visualization, more theory, more Bayesian
     - [Ross Big Data Summer Camp](https://icosbigdatacamp.github.io/) -- This is not for credit but is a 1 week crash course.
    </details>
+    - ALA 470 [Introduction to Data Visualization](https://www.lib.umich.edu/instruction-and-workshops/library-courses)
    
     <details>
      <summary> 

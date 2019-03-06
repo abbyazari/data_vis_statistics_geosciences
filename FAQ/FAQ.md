@@ -246,5 +246,13 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - Go check out the [visualization lectures](https://github.com/astro-abby/data_vis_statistics_geosciences/tree/master/VisualizationBasics). This is a quick tool that you can install to see if your figures are readable for the various types of colors that people see - [Color Oracle](https://colororacle.org/)
 </details>
 
+# Useful Resources
 
+<details>
+ <summary> 
+  Regular Expression Testing and Writing
+ </summary>
+ 
+- A useful tester and explanation can be found at https://regex101.com/.
+</details>
 

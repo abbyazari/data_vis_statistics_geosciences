@@ -250,9 +250,10 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 <details>
  <summary> 
-  Regular Expression Testing and Writing
+  Regular expression testing and writing
  </summary>
  
 - A useful tester and explanation can be found at https://regex101.com/.
 </details>
+
 

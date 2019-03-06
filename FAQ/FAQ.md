@@ -212,7 +212,7 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 <details>
  <summary> 
-  It looks like the plots in 2D onwards sum up to a probability of greater than 100%? What is going on here?
+  It looks like the plots in Part 2. D. onwards sum up to a probability of greater than 100%? What is going on here?
  </summary>
  
 - If you notice in the documentation of [ax.hist()](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.hist.html) if you set density = True then the area under the curve is set to normalize to one. This can actually be quite confusing because if you have bins of < 1 width, it appears that the y-axis will add up to greater than one. This is something to keep in mind when using the density = True command.

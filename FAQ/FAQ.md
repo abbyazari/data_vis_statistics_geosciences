@@ -256,4 +256,12 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - A useful tester and explanation can be found at https://regex101.com/.
 </details>
 
+<details>
+ <summary> 
+  Matplotlib documentation and examples for basic plotting
+ </summary>
+ 
+- For basic plots in Python you can refer to the Matplotlib documentation https://matplotlib.org/.
+</details>
+
 

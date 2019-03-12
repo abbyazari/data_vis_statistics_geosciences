@@ -30,7 +30,7 @@ def calcCoeffsErr(x, rootMeanSquareError):
 def calcRMSE(yModel, yData):
     '''
     This calculates sigma y, or equation 8.15 in Taylor. Outputs
-    error on the fit of linear regression. 
+    error on the fit of regressions. 
     '''
     import numpy as np
     

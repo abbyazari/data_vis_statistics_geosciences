@@ -38,7 +38,7 @@ This file contains groupings of commonly asked questions with regards to Python,
     - [Ross Big Data Summer Camp](https://icosbigdatacamp.github.io/) -- This is not for credit but is a 1 week crash course.
     - ALA 470 [Introduction to Data Visualization](https://www.lib.umich.edu/instruction-and-workshops/library-courses)
    </details>
-   
+   - IOE 410. Advanced Optimization Methods -- More optimization, less statistics.    
     <details>
      <summary> 
       More advanced courses:

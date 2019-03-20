@@ -51,7 +51,7 @@ Make sure you check out the [Frequently Asked Questions](https://github.com/astr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Space Weather: Linear Regression with Bootstrap Analysis
 
 ### [EXTRA Data Visualization Basics (5/16/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mini lessons and lectures for the [ICOS Big Data Summer Camp](https://github.com/ICOSBigDataCamp/2018-summer-camp) at University of Michigan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mini lessons and lectures for the [2018 ICOS Big Data Summer Camp](https://github.com/ICOSBigDataCamp/2018-summer-camp) at University of Michigan
 
 | | |
 |:-------------------------:|:-------------------------:|

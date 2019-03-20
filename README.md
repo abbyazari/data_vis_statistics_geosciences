@@ -58,7 +58,7 @@ Make sure you check out the [Frequently Asked Questions](https://github.com/astr
 |Lab 1 <img width="1500" alt="img1" src="./Lab1/Figures/Example_TempVariants_GlobalYearlyAverages_Transparent.png"> | Lab 2 <img width="1500" alt="img2" src="./Lab2/Figures/LatitudeBirds_NorthAmerica_TempAnomalies.png"> 
 |Lab 3 <img width="1500" alt="img3" src="./Lab3/FinalPNGs/augmentedProject.png"> | Lab 4 <img width="1500" alt="img4" src="./Lab4/Figures/JunoCam_MagData_2017-086-08-20.png" alt="Drawing4"> 
 |Lab 5 <img width="1500" alt="img5" src="./Lab5/Figures/SummerTemps.png"> | Lab 6 <img width="1500" alt="img5" src="./Lab6/Figures/2010SeaIceConcentration.png"> 
-|Lab 7 <img width="1500" alt="img7" src="./Lab7/Figures/LongDurationSolar.png"> |Lab 8 <img width="1500" alt="img8" src="./Lab8/Figures/Fits_Sunspot%20NumbervsD%20%24_%7Bst%7D%24%20(nT).png">
+|Lab 7 <img width="1500" alt="img7" src="./Lab7/Figures/LongDurationSolar.png"> |Lab 8 <img width="1500" alt="img8" src="./Lab8/Figures/BootstrapLinearFits.png">
 
 
 

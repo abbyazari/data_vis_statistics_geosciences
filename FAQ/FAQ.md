@@ -76,6 +76,14 @@ This file contains groupings of commonly asked questions with regards to Python,
 - Make sure you check out the [ICOS Big Data Camp](https://icosbigdatacamp.github.io/2018-summer-camp/) resources from the most recent camp in 2018. They include note only a subset of this course but also a full week long series of seminars and workshops. It will be held again in the spring of 2019 at University of Michigan. 
 </details>
 
+<details>
+  <summary> I'm here from using ArcGIS. What types of things can Python do for me?
+  </summary>
+ 
+- Make sure you check out the ArcPY package. As stated in their [documentation](https://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm) "ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python".
+
+</details>
+
 # General Programming
 
 <details>

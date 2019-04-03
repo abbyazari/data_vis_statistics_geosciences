@@ -82,7 +82,7 @@ This file contains groupings of commonly asked questions with regards to Python,
   <summary> I'm feeling overwhelmed writing my own code. How do I start this? 
   </summary>
  
-  - Coding is not a profession that runs on natural talent. Most of coding is an iterative process where you try, receive an error, and try again. Errors are a natural part of programming. You should expect to have your notebooks throw errors at you and to then figure out how to fix them. As you code you will need to use resources such as the help() function, resources you find in books and online including these notebooks here! I wanted to share with you an outline to get started writing your own code that I've found particularly useful: 
+  - Coding is not a profession that runs on natural talent - it's all about learning, making mistakes, and learning more. You iterate constantly. Most of coding is an iterative process where you try, receive an error, and try again. Errors are a natural part of programming. You should expect to have your notebooks throw errors at you and to then figure out how to fix them. As you code you will need to use resources such as the help() function, resources you find in books and online including these notebooks here! I wanted to share with you an outline to get started writing your own code that I've found particularly useful: 
 
 - **Step 1: Make an outline.** Before starting coding, make an outline (pencil and paper) of what you want to accomplish. You should know where you want to go before you begin coding. 
 

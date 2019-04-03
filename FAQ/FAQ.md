@@ -244,6 +244,16 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - This is something in Python called list comprehension. It's best to think of this like a nested for loop that outputs a list. What we did in lab was make a list of the netCDF file variables. The line loops through dataset.variables and populates a list with each one. A similar list comprehension example would be [v for v in np.arange(1, 10)] which would output [1, 2, 3, 4, 5, 6, 7, 8, 9]. 
 </details>
 
+# Lab 7  
+
+<details>
+ <summary> 
+ How can I interpret the ROC curve?
+ </summary>
+ 
+- We cover more details in lecture but there is additional description within [Fawcett, 2006](https://www.sciencedirect.com/science/article/pii/S016786550500303X) and usage for classification analysis within [Azari et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JA025391).
+</details>
+
 
 # Visualizations 
 <details>

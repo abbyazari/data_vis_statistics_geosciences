@@ -297,9 +297,9 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  </summary>
  
 * NASA will often use a specific type of file called common data format or CDF to supply and store its data. You can find more about this at the descriptive page at [NASA Goddard](https://cdf.gsfc.nasa.gov/). There are several ways to obtain read and write access to CDF files in Python. What follows is a list to be best of my current knowledge of where to look.
-  * Through SpacePy (pycdf), more information at: https://pythonhosted.org/SpacePy/pycdf.html
-  * Through cdflib, more information at the MAVEN SDC: https://github.com/MAVENSDC/cdflib
-  * Through pysatCDF, more information is at: https://github.com/rstoneback/pysatCDF
+  * Through **SpacePy (pycdf)**, more information at: https://pythonhosted.org/SpacePy/pycdf.html
+  * Through **cdflib**, more information at the MAVEN SDC: https://github.com/MAVENSDC/cdflib
+  * Through **pysatCDF**, more information is at: https://github.com/rstoneback/pysatCDF
 
 </details>
 

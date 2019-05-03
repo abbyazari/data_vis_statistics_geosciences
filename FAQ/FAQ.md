@@ -35,9 +35,10 @@ This file contains groupings of commonly asked questions with regards to Python,
  
     - STATS 412 Introduction to Probability & Statistics -- More theory based and introductory stats
     - STATS 451 Bayesian Data Analysis -- Less visualization, more theory, more Bayesian
+    - EAS 538 Natural Resource Statistics -- In R rather than Python, Earth focused
     - [Ross Big Data Summer Camp](https://icosbigdatacamp.github.io/) -- This is not for credit but is a 1 week crash course.
     - ALA 470 [Introduction to Data Visualization](https://www.lib.umich.edu/instruction-and-workshops/library-courses)
-   - IOE 410. Advanced Optimization Methods -- More optimization, less statistics.  
+    - IOE 410 Advanced Optimization Methods -- More optimization, less statistics.  
     </details>
     <details>
      <summary> 

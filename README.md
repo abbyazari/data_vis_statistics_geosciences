@@ -6,6 +6,10 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 Make sure you check out the [Frequently Asked Questions](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md) section as you go through the labs. 
 
+Please see our liscense at the end of this readme. This class has been developed in collaboration between [Dr. Michael Liemohn](http://clasp.engin.umich.edu/people/liemohn) of the Climate & Space Sciences & Engineering department and [Abby Azari](http://clasp.engin.umich.edu/people/abigail-azari/). The 2019 version updated with the assistance of [Brian Swiger](https://github.com/briswi). If you find it useful and end up using in your work please cite this as: Azari, A. R., Liemohn, M. W., & Swiger, B. M. "Data Visualization and Statistics in the Geosciences". Accessed on *insert date*. github.com/astro-abby/data_vis_statistics_geosciences. 2019.
+
+
+
 # Current Content
 
 ### [Frequently Asked Questions](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)  
@@ -63,8 +67,6 @@ Make sure you check out the [Frequently Asked Questions](https://github.com/astr
 
 
 This README will be updated to reflect current changes. Data used in the lessons will be accredited to the providers. Lab assignments are availiable and will be mentioned in the tutorials but are not linked. 
-
-This class has been developed in collaboration between [Dr. Michael Liemohn](http://clasp.engin.umich.edu/people/liemohn) of the Climate & Space Sciences & Engineering department and [Abby Azari](http://clasp.engin.umich.edu/people/abigail-azari/). The 2019 version updated with the assistance of [Brian Swiger](https://github.com/briswi).   
 
 Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data, Gabriel Harp the Research Director of ArtsEngin at University of Michigan for pointing us toward climate health impact data, space scientist [Doga Ozturk](http://orcid.org/0000-0002-8071-2707) for expertise in space weather informatics, solar physicist [Yeimy Rivera](http://clasp.engin.umich.edu/people/yrivera/GSTUDENT) for expertise in solar surface data, and Jeff Lockhart of the [Computational Social Scientists](https://github.com/UM-CSS) (CSS) for offering resources through CSS.
 

@@ -6,7 +6,7 @@ The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However
 
 Make sure you check out the [Frequently Asked Questions](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md) section as you go through the labs. 
 
-Please see our liscense at the end of this readme. This class has been developed in collaboration between [Dr. Michael Liemohn](http://clasp.engin.umich.edu/people/liemohn) of the Climate & Space Sciences & Engineering department and [Abby Azari](astro-abby.github.io). The 2019 version updated with the assistance of [Brian Swiger](https://github.com/briswi). If you find it useful and end up using in your work please cite this as: Azari, A. R., Liemohn, M. W., & Swiger, B. M. "Data Visualization and Statistics in the Geosciences". Accessed on *insert date*. github.com/astro-abby/data_vis_statistics_geosciences. 2019.
+Please see our liscense at the end of this readme. This class has been developed in collaboration between [Dr. Michael Liemohn](http://clasp.engin.umich.edu/people/liemohn) of the Climate & Space Sciences & Engineering department and [Abby Azari](https://astro-abby.github.io/). The 2019 version updated with the assistance of [Brian Swiger](https://github.com/briswi). If you find it useful and end up using in your work please cite this as: Azari, A. R., Liemohn, M. W., & Swiger, B. M. "Data Visualization and Statistics in the Geosciences". Accessed on *insert date*. github.com/astro-abby/data_vis_statistics_geosciences. 2019.
 
 
 

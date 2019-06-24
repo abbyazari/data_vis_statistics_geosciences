@@ -19,6 +19,7 @@ This file contains groupings of commonly asked questions with regards to Python,
  </summary>
  
  - Lab 1 has a lot of what you need to get started. Begin there then pick and choose what labs you would like after that but make sure to start with Lab 1 as it has a lot of the basics of Python oddities in there. 
+ -Dan Welling also has posted an extensive introduction to Python and SpacePy on http://www-personal.umich.edu/~dwelling/python/. 
 </details>
 
 <details>

@@ -274,6 +274,12 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  </summary>
  
 - Go check out the [visualization lectures](https://github.com/astro-abby/data_vis_statistics_geosciences/tree/master/VisualizationBasics). This is a quick tool that you can install to see if your figures are readable for the various types of colors that people see - [Color Oracle](https://colororacle.org/)
+
+<summary> 
+  Where are some places I can go for inspiration?
+ </summary>
+ 
+- Go check out the [From Data to Vis](https://www.data-to-viz.com/) for some high level ideas. If you are in Python I also reccomend seeing the package documentation of [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/). 
 </details>
 
 # Useful Resources

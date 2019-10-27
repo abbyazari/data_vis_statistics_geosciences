@@ -47,9 +47,10 @@ This file contains groupings of commonly asked questions with regards to Python,
       More advanced courses:
      </summary>
 
+    - EECS 505 Computational Data Science
     - EECS 545 Machine Learning 
-    - EECS 598 Computational Data Science
     - TO 640 Big Data Management: Tools and Techniques
+    - EECS 402 Programming for Scientists and Engineers
      </details>
 
 </details>

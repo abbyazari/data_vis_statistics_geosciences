@@ -1,5 +1,5 @@
 # Data Visualization & Statistics in the Geosciences 2019
-UPDATE: The 2020+ versions of this class will be hosted on a new Github page. This will be updated to reflect the new course link upon set up. 
+UPDATE: The 2020+ versions of this class will be hosted on a new Github page. This will be updated to reflect the new course link upon set up (12/4/2019). 
 
 This repository contains the laboratory portion of a split upper level undergraduate / graduate class in Python on data visualization and 
 statistics for geo &amp; space scientists. Labs will be updated from January - May at the same cadence as the course (2019). The 2018 version may be found in the 2018 branch.
@@ -75,7 +75,7 @@ This README will be updated to reflect current changes. Data used in the lessons
 
 Discussions with climate scientist [Samantha Basile](http://clasp.engin.umich.edu/people/sjbasile/GSTUDENT) were critical in developing these materials. We also thank planetary scientist [Camilla Harris](https://github.com/cdkharris) for discussions of Juno data, Gabriel Harp the Research Director of ArtsEngin at University of Michigan for pointing us toward climate health impact data, space scientist [Doga Ozturk](http://orcid.org/0000-0002-8071-2707) for expertise in space weather informatics, solar physicist [Yeimy Rivera](http://clasp.engin.umich.edu/people/yrivera/GSTUDENT) for expertise in solar surface data, and Jeff Lockhart of the [Computational Social Scientists](https://github.com/UM-CSS) (CSS) for offering resources through CSS.
 
-Last update 7/10/2019
+Last update 12/4/2019
 
 # License
 The content and lessons of this repository itself is licensed under the [Creative Commons Attribution-Non Commercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). However, the specific code used within the notebooks taken out of context and to format and display that content is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).

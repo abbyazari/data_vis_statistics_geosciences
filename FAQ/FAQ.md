@@ -1,5 +1,5 @@
 # Frequently Asked Questions 
-This file contains groupings of commonly asked questions with regards to Python, visualization, and statistics. 
+This file contains groupings of commonly asked questions and resources with regards to Python, visualization, and statistics. 
 
 # Getting Started 
 
@@ -15,12 +15,14 @@ This file contains groupings of commonly asked questions with regards to Python,
 
 <details>
  <summary> 
-  I'm here to learn Python but code in space science / climate science. Where do I begin?
+  I'm here to learn Python code in space science / climate science. Where do I begin?
  </summary>
  
  - Lab 1 has a lot of what you need to get started. Begin there then pick and choose what labs you would like after that but make sure to start with Lab 1 as it has a lot of the basics of Python oddities in there. 
  
- - Dan Welling also has posted an extensive introduction to Python and SpacePy on http://www-personal.umich.edu/~dwelling/python/. 
+ - Prof. Dan Welling also has posted an extensive introduction to Python and SpacePy on http://www-personal.umich.edu/~dwelling/python/. 
+ 
+ - Prof. Karen Shell teaches a 300 level Climate Data Analysis class at Oregon State University which can be found at https://github.com/karenshell/climate-data-class.
 </details>
 
 <details>

@@ -23,6 +23,8 @@ This file contains groupings of commonly asked questions and resources with rega
  - Prof. Dan Welling also has posted an extensive introduction to Python and SpacePy on http://www-personal.umich.edu/~dwelling/python/. 
  
  - Prof. Karen Shell teaches a 300 level Climate Data Analysis class at Oregon State University which can be found at https://github.com/karenshell/climate-data-class.
+ 
+ - Prof. S.-H. Dan Shim has posted several notebooks on getting started in different areas at https://www.danshimlab.info/resources/studying-jupyter-python.
 </details>
 
 <details>

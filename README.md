@@ -1,7 +1,7 @@
 # Data Visualization & Statistics in the Geosciences 2019
-UPDATE: The 2020+ versions of this class are hosted on a course specific Github page. This will be updated to reflect the new course link upon set up (12/4/2019). 
+UPDATE: The 2020+ versions of this class are hosted on a the following [course specific Github page](https://github.com/clasp423/data_vis_statistics_geosciences).
 
-This repository contains the laboratory portion of a split upper level undergraduate / graduate class in Python on data visualization and statistics for geo &amp; space scientists. Labs will be updated from January - May at the same cadence as the course (2019). The 2018 version may be found in the 2018 branch.
+This repository contains the laboratory portion of a split upper level undergraduate / graduate class in Python on data visualization and statistics for geo &amp; space scientists. There are two branches hosted here from 2019 and 2018 versions of the course. 
 
 The labs uploaded will be in Jupyter primarily and coded in Python 3.5+. However, most of the functions and methods should work in Python 2.7. If you do not have/know what Jupyter is - you can download Python/Jupyter from Anaconda or Canopy as a fully installed and interactive environment. This will support most if not all of the packages used in the labs and then you can navigate to Jupyter through Anaconda/Canopy.
 
